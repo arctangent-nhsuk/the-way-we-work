@@ -338,7 +338,8 @@ This work will be carried out on an ongoing basis.
 You will:
 
 - comply with corporate policies and procedures
-- meet with each of your reports once each week to discuss and record progress towards objectives and key results
+- meet with each of your reports on the first day of each sprint...
+- ... to discuss and record progress towards objectives and key results
 - ensure each of your reports is carrying out their role as described in this document
 - participate in recruitment activities and interview panels
 
@@ -362,7 +363,8 @@ This work will be carried out on an ongoing basis.
 You will:
 
 - comply with corporate policies and procedures
-- meet with each of your reports once each week to discuss and record progress towards objectives and key results
+- meet with each of your reports on the first day of each sprint...
+- ... to discuss and record progress towards objectives and key results
 - ensure each of your reports is carrying out their role as described in this document
 - participate in recruitment activities and interview panels
 - ensure your reports are appropriately managing their own reports
@@ -485,6 +487,18 @@ There are various activities to be distributed amongst the stakeholders:
 - Production of educational or supporting documentation
 
 ### 4.4 Duty of Care    
+
+**One-to-One Meetings**
+
+- a primary method of line management
+- must take place on the first day of a new sprint
+- begin by reviewing achievements against previous meeting's commitments
+- then identify the individual's commitments for the upcoming sprint...
+- ... which will include Jira tickets from their team backlog as well as 20% time work towards their OKRs
+- help the individual to identify barriers to success and think through ways to overcome them
+- the individual should commit to completing certain activities/tickets before the next meeting
+- does the individual need any extra support to meet their commitments?
+
 
 ### 4.5 Finance
 
