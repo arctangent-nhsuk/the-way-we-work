@@ -512,8 +512,17 @@ There will also be some planned content and exercises covering:
 
 TODO
 
-What information will we record and pass up the chain. How will that information be used - i.e. why it is important that we are doing this.
+What information will we record and pass up the chain?
 
+- deployment frequency by team/product
+- commit frequency by team/product
+- pairing sessions by team/product
+- objectives and/or key results achieved
+
+How will that information be used?
+
+- to identify praiseworthy team/individual achievements
+- to identify opportunities to provide additional support to teams/individuals
 
 **Triggers and Interventions**
 
