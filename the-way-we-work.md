@@ -207,6 +207,7 @@ This work will be carried out within a delivery team.
 You will:
 
 - use your technical expertise to lead the design of the solution
+- ensure the system conforms to approved NHSUK architecture patterns
 - ensure the system is sufficiently documented
 - ensure the solution is delivered incrementally, with a deployment each sprint
 - ensure the solution is delivered in a way that maximises the involvement and learning of other team members
@@ -248,6 +249,7 @@ You will:
 - share important developments in your team or area of work
 - raise and discuss problems that require cross-team collaboration to solve
 - offer your assistance to help solve cross-team problems
+- maintain coding standards documentation
 - help to maintain the SDMT Plan
 
 **Strategy Implementation and Lean Improvement Projects**
@@ -292,6 +294,7 @@ You will:
 
 - actively seek out opportunities to develop the skills of other developers
 - pair with other developers whenever possible to complete feature tickets
+- record who you paired with and what was discussed on the relevant Jira ticket
 
 **Coaching**
 
@@ -346,7 +349,8 @@ This work will be carried out on an ongoing basis.
 You will:
 
 - comply with corporate policies and procedures
-- meet with each of your reports once each week to discuss and record progress towards objectives and key results
+- meet with each of your reports on the first day of each sprint...
+- ... to discuss and record progress towards objectives and key results
 - ensure each of your reports is carrying out their role as described in this document
 - participate in recruitment activities and interview panels
 - ensure your reports are appropriately managing their own reports
@@ -418,6 +422,10 @@ TODO: Ensure linkage to Growth, Autonomy, Mastery, Purpose, Support and Structur
 
 ### 4.1 Code    
 
+**Code Review**
+
+- ensure code complies with our coding standards
+
 **Pairing**
 
 -
@@ -441,6 +449,7 @@ TODO: Ensure linkage to Growth, Autonomy, Mastery, Purpose, Support and Structur
 
 **System Design**
 
+- check the system against the criteria in the Engineering Quality Framework
 
 **Documentation**
 
