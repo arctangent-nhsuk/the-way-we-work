@@ -139,7 +139,7 @@ TODO: Will we also monitor how many pair programming (or mentoring) sessions are
 
 ## 2. Roles & Responsibilities
 
-**Summary**
+### 2.1 Summary
 
 The new responsibilities acquired at each pay band build upon the responsibilities of the band below.
 
@@ -147,7 +147,7 @@ A developer's "role" is therefore the sum of all the responsibilities at their o
 
 However, as developers increase in seniority their general focus is expected to shift from individual work to a whole-team approach.
 
-**Responsibility Matrix**
+### 2.2 Responsibility Matrix
 
 The responsibility matrix below shows pay bands across the top and areas of responsibility down the side. The new responsibilities acquired at each role are therefore set out in a columnar fashion.
 
@@ -161,7 +161,7 @@ The responsibility matrix below shows pay bands across the top and areas of resp
 |**FINANCE**|  |  | Payments to Contractors | Overall budget |
 
 
-**Time Allocation**
+### 2.3 Time Allocation
 
 When deciding what to work on next, there is one simple rule:
 
