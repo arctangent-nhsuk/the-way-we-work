@@ -8,7 +8,7 @@
 
 ---
 
-TODO: Ensure the SUPPORT aspect is thoroughly woven in
+TODO: Ensure linkage to Growth, Autonomy, Mastery, Purpose, Support and Structure
 
 ---
 
@@ -191,35 +191,47 @@ This work will be carried out within a delivery team.
 **Actions & Behaviours**
 
 - attend sprint planning at the beginning of each sprint
-- complete at least one Jira ticket per sprint and change its status to "Done"
-- pair with other developers where possible
-- commit code which is deployed to production at least once per sprint
+- write code which is deployed to production at least once per sprint
+- ensure Jira tickets assigned to you are kept up to date
+- review the code of other developers in your team
 - attend a retrospective at the end of each sprint
 
 **Tools & Methods**
 
+Sprint Planning:
+
+- help to select which stories will be in the next sprint
+- agree only to tickets that are sufficiently elaborated
+- take into account your other responsibilities when deciding how many tickets to select
+- agree only to work that you can comfortably complete (and deploy) in the next sprint
+- ensure the solution is delivered incrementally, with a deployment each sprint
+
+Writing Code:
+
+- collaborate with fellow developers to select appropriate tickets from the sprint backlog
+- comply with coding standards while creating new code
+- ensure you write unit tests, and collaborate with testers to ensure they can write tests too
+
+Jira Tickets:
+
+- write notes on Jira tickets to record progress or document blockers
+- change the status of Jira tickets promptly to help keep your team informed
+
 Code Review:
 
-- agree a code review checklist with your team
+- ensure your team is following a code review checklist
 - review other people's code before writing your own
 - invest enough time to provide a thorough review
 - ensure code complies with our coding standards
 - ensure you understand the new code
 - use the code review as an opportunity to provide constructive advice and teaching
 
-Sprint Planning:
-
-- help to select which Jira tickets will be in the next sprint
-- agree only to tickets that are sufficiently elaborated
-- take into account your other responsibilities when deciding how many tickets to select
-- agree only to work that you can comfortably complete (and deploy) in the next sprint
-
 Retrospectives:
 
--
--
--
--
+- before attending a retrospective, reflect on what went well in the last sprint and what went less well
+- express your opinions honestly in the retrospective whilst respecting other people's feelings
+- ensure that Jira tickets are created to address issues
+- ensure improvement tickets are brought into the following sprint so that improvements can be realised
 
 #### 3.1.2 System Design and Documentation**
 
@@ -227,18 +239,15 @@ This work will be carried out within a delivery team.
 
 **Actions & Behaviours**
 
-- use your technical expertise to lead the design of the solution
-- ensure the system conforms to approved NHSUK architecture patterns
-- ensure the system is sufficiently documented
-- ensure the solution is delivered incrementally, with a deployment each sprint
-- ensure the solution is delivered in a way that maximises the involvement and learning of other team members
-- provide specialist technical advice to other team members
+- lead the design of the solution
+- ensure the system remains well-documented at all times
 
 **Tools & Methods**
 
 System Design:
 
 - check the system against the criteria in the Engineering Quality Framework
+- ensure the system conforms to approved NHSUK architecture patterns
 
 Documentation:
 
@@ -414,18 +423,23 @@ When line managing Band 6/7 staff:
 - comply with corporate policies and procedures
 - meet with each of your reports on the first day of each sprint...
 - ... to discuss and record progress towards objectives and key results
+- ensure your reports have sufficient work in the upcoming sprint
+- ensure your reports have included some 20% Time work in the upcoming sprint
+- discuss the planned work to help identify any support you can provide
 - ensure each of your reports is carrying out their role as described in this document
 - participate in recruitment activities and interview panels
 
 Additionally, for Bands 8a/8b staff:
 
 - ensure your reports are appropriately managing their own reports
+- ask what their reports achieved in the last 2 weeks
+- ask what their reports are working on in the next 2 weeks
+- record praiseworthy achievements
 
 **Tools & Methods**
 
 One-to-One Meetings:
 
-- a primary method of line management
 - must take place on the first day of a new sprint
 - begin by reviewing achievements against previous meeting's commitments
 - then identify the individual's commitments for the upcoming sprint...
@@ -517,63 +531,6 @@ TODO: Example content of a Quick Guide
 ---
 
 ## 5. STUFF TO MOVE ELSEWHERE
-
-TODO: The notes here need moving somewhere else
-
-Participation and compliance
-
-- This is a special type of meta-monitoring
-- Principals will need to be held to account for ensuring Senior Devs do what is required, and so on
-
-How this all fits with the existing line management arrangements:
-
-- Staff will be asked to document their accomplishments through the course of a sprint
-- Staff will discuss and reflect on these accomplishments with their line managers each fortnight after the sprint retrospective (i.e. Tuesday afternoon)
-- Benefit to them: This record of continuing professional development will assist them in progressing their career. (e.g. by making it easier to prepare for promotion)
-- Benefit to them: ... Need more ways to sell this as a useful thing to the individual and the line manager.
-
----
-
-
-
-TODO: This section will have checklists to guide the actions & behaviours of staff.
-TODO: Remove detail from actions & behaviours section and put here instead.
-
-Tools & Methods are best-practice approaches to Actions & Behaviours.
-
-We believe that if developers follow these guidelines then surely excellent outcomes will follow. 
-
-TODO: How about a "Do / Don't" format?
-
-TODO: Ensure linkage to Growth, Autonomy, Mastery, Purpose, Support and Structure
-
-
-
-
-
-4.3 Growing the Team    
-
-What support-related roles and activities are expected of:
-
-- Sean
-- Principals
-- Jacob in particular (e.g. coaching for Senior developers)
-- Senior developers
-- Other developers
-- DMs/POs
-- Anyone else
-
-There are various activities to be distributed amongst the stakeholders:
-
-- Compliance with the process/system itself
-- Collecting information (e.g. to measure the success of our approach)
-- Filtering/evaluating information (e.g. who deserves praise this week)
-- Meetings and interactions (e.g. weekly 1-2-1s, regular discussions with DMs/POs)
-- Promotion/Communication (e.g. about the system, but also public praise for individuals)
-- Decisions that may need to be taken in response to certain triggers
-- Various kinds of support or intervention
-- Production of educational or supporting documentation
-
 
 **Coaching support**
 
