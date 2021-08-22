@@ -31,23 +31,17 @@ TODO: Use corporate controlled document template
     1.2 Why have we created The Way We Work?    
     1.3 How we designed The Way We Work   
     1.4 How we will measure our success      
-2. Roles & Responsibilities  
+2. Roles Explained     
     2.1 Summary    
     2.2 Responsibility Matrix    
     2.3 Time Allocations    
-3. Actions & Behaviours
+3. Responsibilities Explained    
     3.1 Code    
     3.2 Leadership and Autonomy    
     3.3 Growing the Team    
     3.4 Duty of Care    
     3.5 Finance      
-4. Tools & Methods  
-    4.1 Code    
-    4.2 Leadership and Autonomy    
-    4.3 Growing the Team    
-    4.4 Duty of Care    
-    4.5 Finance      
-5. Quarterly objective setting cycle
+4. Quarterly objective setting cycle
     5.1    
     5.2    
     5.3    
@@ -137,7 +131,7 @@ TODO: Will we also monitor how many pair programming (or mentoring) sessions are
 
 ---
 
-## 2. Roles & Responsibilities
+## 2. Roles
 
 ### 2.1 Summary
 
@@ -157,7 +151,7 @@ The responsibility matrix below shows pay bands across the top and areas of resp
 |**CODE**| Feature Development | System Design and Documentation | Engineering Quality Framework |                |
 |**LEADERSHIP and AUTONOMY**| 20% Time | SDMT Operational Planning | Strategy Implementation and Lean Improvement Projects | Vision and Strategy |
 |**GROWING THE TEAM**| Code Reviews | Mentoring and Pairing | Coaching | Delegation |
-|**DUTY OF CARE**| Buddy to Apprentice | Line Management and Recruitment of Band 6/7 | Line Management and Recruitment of Band 8a and Contractors | Line Management and Recruitment of Band 8b and Contractors |
+|**DUTY OF CARE**| Buddying | Line Management | Line Management | Line Management |
 |**FINANCE**|  |  | Payments to Contractors | Overall budget |
 
 
@@ -174,7 +168,7 @@ TODO: Possible alternative:
 This will usually mean a developer working on activities in their own column in favour of activities in preceeding columns.
 
 
-## 3. Actions & Behaviours
+## 3. Responsibilities
 
 Actions & Behaviours are the things we expect developers to do within their areas of responsibility.
 
@@ -188,11 +182,11 @@ TODO: Alternative approach: Combine into "Actions & Behaviours, Tools & Methods"
 
 ### 3.1 Code
 
-**Feature Development**
+#### 3.1.1 Feature Development
 
 This work will be carried out within a delivery team.
 
-You will:
+**Actions & Behaviours**
 
 - attend sprint planning at the beginning of each sprint
 - complete at least one Jira ticket per sprint and change its status to "Done"
@@ -200,11 +194,11 @@ You will:
 - commit code which is deployed to production at least once per sprint
 - attend a retrospective at the end of each sprint
 
-**System Design and Documentation**
+#### 3.1.2 System Design and Documentation**
 
 This work will be carried out within a delivery team.
 
-You will:
+**Actions & Behaviours**
 
 - use your technical expertise to lead the design of the solution
 - ensure the system conforms to approved NHSUK architecture patterns
@@ -213,11 +207,11 @@ You will:
 - ensure the solution is delivered in a way that maximises the involvement and learning of other team members
 - provide specialist technical advice to other team members
 
-**Engineering Quality Framework**
+#### 3.1.3 Engineering Quality Framework
 
 This work will be carried out in collaboration with SDMT.
 
-You will:
+**Actions & Behaviours**
 
 - maintain and develop technical expertise in the EQF areas
 - design and deliver technical prototypes or experiments to inform decisions and future development
@@ -225,9 +219,9 @@ You will:
 
 ### 3.2 Leadership and Autonomy
 
-**20% Time**
+#### 3.2.1 20% Time
 
-You will:
+**Actions & Behaviours**
 
 - agree 3 suitable personal objectives and corresponding key results with your line manager
 - ensure that one of these objectives is related to an agreed training activity
@@ -238,11 +232,11 @@ You will:
 - select at least one of these Jira tickets to work on in each sprint
 - ensure this ticket(s) are included in the sprint backlog
 
-**SDMT Operational Planning**
+#### 3.2.2 SDMT Operational Planning
 
 This work will be carried out in collaboration with SDMT.
 
-You will:
+**Actions & Behaviours**
 
 - attend the Senior Developers Management Team (SDMT) meeting each week
 - chair SDMT on a rotating basis, preparing the agenda and writing meeting minutes
@@ -252,22 +246,22 @@ You will:
 - maintain coding standards documentation
 - help to maintain the SDMT Plan
 
-**Strategy Implementation and Lean Improvement Projects**
+#### 3.2.3 Strategy Implementation and Lean Improvement Projects
 
 This work will be carried out in collaboration with the leadership team.
 
-You will:
+**Actions & Behaviours**
 
 - identify and agree priority improvement areas with the Dev & Test Manager
 - select one area per quarter to target for improvements as a personal objective
 - design lean improvement projects to deliver improvements across multiple products
 - lead, motivate and hold to account other developers to deliver the desired improvements
 
-**Vision and Strategy**
+#### 3.2.4 Vision and Strategy
 
 This work will be carried out in collaboration with the leadership team.
 
-You will:
+**Actions & Behaviours**
 
 - define and communicate a clear vision for NHSUK software development
 - collaborate with the leadership team to agree a strategy to deliver the vision
@@ -275,42 +269,42 @@ You will:
 
 ### 3.3 Growing the Team
 
-**Code Reviews**
+#### 3.3.1 Code Reviews
 
 This work will be carried out within a delivery team.
 
-You will:
+**Actions & Behaviours**
 
 - agree a code review checklist with your team
 - invest enough time to provide a thorough review
 - review other people's code in before writing your own
 - use the code review as an opportunity to provide constructive advice and teaching
 
-**Mentoring and Pairing**
+#### 3.3.2 Mentoring and Pairing
 
 This work will be carried out within a delivery team.
 
-You will:
+**Actions & Behaviours**
 
 - actively seek out opportunities to develop the skills of other developers
 - pair with other developers whenever possible to complete feature tickets
 - record who you paired with and what was discussed on the relevant Jira ticket
 
-**Coaching**
+#### 3.3.2 Coaching
 
 This work will be carried out on a one-to-one basis by arrangement with other developers.
 
-You will:
+**Actions & Behaviours**
 
 - design programmes of coaching to improve developers' knowledge of agile software development
 - bprovide one-to-one coaching to support developers through their immediate and specific work issues
 - promote a coaching culture in NHSUK software development
 
-**Delegation**
+#### 3.3.3 Delegation
 
 This work will be carried out in collaboration with the leadership team.
 
-You will:
+**Actions & Behaviours**
 
 - identify opportunities to stretch and empower other members of the leadership team
 - delegate responsibility for the completion of significant work packages (e.g. lean improvement projects)
@@ -321,21 +315,24 @@ You will:
 
 ### 3.4 Duty of Care
 
-**Buddy to Apprentice**
+#### 3.4.1 Buddying
 
 This work will be carried out TODO
+Note: This section refers to buddying of apprentices
 
-You will:
+**Actions & Behaviours**
 
 - bullets
 - bullets
 - bullets
 
-**Line Management and Recruitment of Band 6/7**
+#### 3.4.2 Line Management of Permanent Staff
 
 This work will be carried out on an ongoing basis.
 
-You will:
+**Actions & Behaviours**
+
+When line managing Band 6/7 staff:
 
 - comply with corporate policies and procedures
 - meet with each of your reports on the first day of each sprint...
@@ -343,52 +340,46 @@ You will:
 - ensure each of your reports is carrying out their role as described in this document
 - participate in recruitment activities and interview panels
 
-**Line Management and Recruitment of Band 8a and Contractors**
+Additionally, for Bands 8a/8b staff:
 
-This work will be carried out on an ongoing basis.
-
-You will:
-
-- comply with corporate policies and procedures
-- meet with each of your reports on the first day of each sprint...
-- ... to discuss and record progress towards objectives and key results
-- ensure each of your reports is carrying out their role as described in this document
-- participate in recruitment activities and interview panels
 - ensure your reports are appropriately managing their own reports
 
-**Line Management and Recruitment of Band 8b and Contractors**
 
-This work will be carried out on an ongoing basis.
+#### 3.4.3 Line Management of Contractors
 
-You will:
+TODO
 
-- comply with corporate policies and procedures
-- meet with each of your reports on the first day of each sprint...
-- ... to discuss and record progress towards objectives and key results
-- ensure each of your reports is carrying out their role as described in this document
-- participate in recruitment activities and interview panels
-- ensure your reports are appropriately managing their own reports
+**Actions & Behaviours**
+
+- TODO
+- TODO
+- TODO
 
 ### 3.5 Finance
 
-**Payments to Contractors**
+#### 3.5.1 Payments to Contractors
 
 This work will be carried out TODO
 
-You will:
+**Actions & Behaviours**
 
 - check with Delivery Managers to ensure contractor invoices are accurate
 - make prompt payments to contractors
 
-**Overall budget**
+#### 3.5.2 Overall budget
 
 This work will be carried out TODO
 
-You will:
+**Actions & Behaviours**
 
 - manage the budget for NHSUK software development
 - make payments to suppliers
 - approve other expenditure
+
+
+
+
+
 
 
 ---
