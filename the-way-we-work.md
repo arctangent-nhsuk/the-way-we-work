@@ -8,7 +8,7 @@
 
 ---
 
-TODO: Ensure the SUPPORT aspect is thoroughly woven in
+TODO: Ensure linkage to Growth, Autonomy, Mastery, Purpose, Support and Structure
 
 ---
 
@@ -31,23 +31,17 @@ TODO: Use corporate controlled document template
     1.2 Why have we created The Way We Work?    
     1.3 How we designed The Way We Work   
     1.4 How we will measure our success      
-2. Roles & Responsibilities  
+2. Roles Explained     
     2.1 Summary    
     2.2 Responsibility Matrix    
     2.3 Time Allocations    
-3. Actions & Behaviours
+3. Responsibilities Explained    
     3.1 Code    
     3.2 Leadership and Autonomy    
     3.3 Growing the Team    
     3.4 Duty of Care    
     3.5 Finance      
-4. Tools & Methods  
-    4.1 Code    
-    4.2 Leadership and Autonomy    
-    4.3 Growing the Team    
-    4.4 Duty of Care    
-    4.5 Finance      
-5. Quarterly objective setting cycle
+4. Quarterly objective setting cycle
     5.1    
     5.2    
     5.3    
@@ -127,7 +121,7 @@ The leadership team will monitor how often developers are able to contribute cod
 
 We do our best work when we work together and when we help each other to improve.
 
-The leadership team will monitor activity on Jira tickets.
+The leadership ßteam will monitor activity on Jira tickets.
 
 TODO: Will we also monitor how many pair programming (or mentoring) sessions are taking place?
 
@@ -137,11 +131,9 @@ TODO: Will we also monitor how many pair programming (or mentoring) sessions are
 
 ---
 
-## 2. Roles & Responsibilities
+## 2. Roles Explained
 
 ### 2.1 Summary
-
-TODO
 
 The new responsibilities acquired at each pay band build upon the responsibilities of the band below.
 
@@ -158,8 +150,8 @@ The responsibility matrix below shows pay bands across the top and areas of resp
 | **FOCUS** | **SELF** | **SINGLE TEAM** | **MULTIPLE TEAMS** | **ALL TEAMS** |
 |**CODE**| Feature Development | System Design and Documentation | Engineering Quality Framework |                |
 |**LEADERSHIP and AUTONOMY**| 20% Time | SDMT Operational Planning | Strategy Implementation and Lean Improvement Projects | Vision and Strategy |
-|**GROWING THE TEAM**| Code Reviews | Mentoring and Pairing | Coaching | Delegation |
-|**DUTY OF CARE**| Buddy to Apprentice | Line Management and Recruitment of Band 6/7 | Line Management and Recruitment of Band 8a and Contractors | Line Management and Recruitment of Band 8b and Contractors |
+|**GROWING THE TEAM**| Pairing | Mentoring | Coaching | Delegating |
+|**DUTY OF CARE**| Buddying | Line Management | Line Management | Line Management |
 |**FINANCE**|  |  | Payments to Contractors | Overall budget |
 
 
@@ -176,7 +168,9 @@ TODO: Possible alternative:
 This will usually mean a developer working on activities in their own column in favour of activities in preceeding columns.
 
 
-## 3. Actions & Behaviours
+## 3. Responsibilities Explained
+
+TODO: Explain how Section 3 is structured
 
 Actions & Behaviours are the things we expect developers to do within their areas of responsibility.
 
@@ -190,46 +184,96 @@ TODO: Alternative approach: Combine into "Actions & Behaviours, Tools & Methods"
 
 ### 3.1 Code
 
-**Feature Development**
+#### 3.1.1 Feature Development
 
 This work will be carried out within a delivery team.
 
-You will:
+**Actions & Behaviours**
 
 - attend sprint planning at the beginning of each sprint
-- complete at least one Jira ticket per sprint and change its status to "Done"
-- pair with other developers where possible
-- commit code which is deployed to production at least once per sprint
+- write code which is deployed to production at least once per sprint
+- ensure Jira tickets assigned to you are kept up to date
+- review the code of other developers in your team
 - attend a retrospective at the end of each sprint
 
-**System Design and Documentation**
+**Tools & Methods**
+
+Sprint Planning:
+
+- help to select which stories will be in the next sprint
+- agree only to tickets that are sufficiently elaborated
+- take into account your other responsibilities when deciding how many tickets to select
+- agree only to work that you can comfortably complete (and deploy) in the next sprint
+- ensure the solution is delivered incrementally, with a deployment each sprint
+
+Writing Code:
+
+- collaborate with fellow developers to select appropriate tickets from the sprint backlog
+- comply with coding standards while creating new code
+- ensure you write unit tests, and collaborate with testers to ensure they can write tests too
+
+Jira Tickets:
+
+- write notes on Jira tickets to record progress or document blockers
+- change the status of Jira tickets promptly to help keep your team informed
+
+Code Review:
+
+- ensure your team is following a code review checklist
+- review other people's code before writing your own
+- invest enough time to provide a thorough review
+- ensure code complies with our coding standards
+- ensure you understand the new code
+- use the code review as an opportunity to provide constructive advice and teaching
+
+Retrospectives:
+
+- before attending a retrospective, reflect on what went well in the last sprint and what went less well
+- express your opinions honestly in the retrospective whilst respecting other people's feelings
+- ensure that Jira tickets are created to address issues
+- ensure improvement tickets are brought into the following sprint so that improvements can be realised
+
+#### 3.1.2 System Design and Documentation**
 
 This work will be carried out within a delivery team.
 
-You will:
+**Actions & Behaviours**
 
-- use your technical expertise to lead the design of the solution
+- lead the design of the solution
+- ensure the system remains well-documented at all times
+
+**Tools & Methods**
+
+System Design:
+
+- check the system against the criteria in the Engineering Quality Framework
 - ensure the system conforms to approved NHSUK architecture patterns
-- ensure the system is sufficiently documented
-- ensure the solution is delivered incrementally, with a deployment each sprint
-- ensure the solution is delivered in a way that maximises the involvement and learning of other team members
-- provide specialist technical advice to other team members
 
-**Engineering Quality Framework**
+Documentation:
+
+-
+-
+-
+
+#### 3.1.3 Engineering Quality Framework
 
 This work will be carried out in collaboration with SDMT.
 
-You will:
+**Actions & Behaviours**
 
 - maintain and develop technical expertise in the EQF areas
 - design and deliver technical prototypes or experiments to inform decisions and future development
 - collaborate with the leadership team to decide the future technical direction of NHSUK
 
+**Tools & Methods**
+
+TODO
+
 ### 3.2 Leadership and Autonomy
 
-**20% Time**
+#### 3.2.1 20% Time
 
-You will:
+**Actions & Behaviours**
 
 - agree 3 suitable personal objectives and corresponding key results with your line manager
 - ensure that one of these objectives is related to an agreed training activity
@@ -240,11 +284,15 @@ You will:
 - select at least one of these Jira tickets to work on in each sprint
 - ensure this ticket(s) are included in the sprint backlog
 
-**SDMT Operational Planning**
+**Tools & Methods**
+
+TODO
+
+#### 3.2.2 SDMT Operational Planning
 
 This work will be carried out in collaboration with SDMT.
 
-You will:
+**Actions & Behaviours**
 
 - attend the Senior Developers Management Team (SDMT) meeting each week
 - chair SDMT on a rotating basis, preparing the agenda and writing meeting minutes
@@ -254,65 +302,88 @@ You will:
 - maintain coding standards documentation
 - help to maintain the SDMT Plan
 
-**Strategy Implementation and Lean Improvement Projects**
+**Tools & Methods**
+
+TODO
+
+#### 3.2.3 Strategy Implementation and Lean Improvement Projects
 
 This work will be carried out in collaboration with the leadership team.
 
-You will:
+**Actions & Behaviours**
 
 - identify and agree priority improvement areas with the Dev & Test Manager
 - select one area per quarter to target for improvements as a personal objective
 - design lean improvement projects to deliver improvements across multiple products
 - lead, motivate and hold to account other developers to deliver the desired improvements
 
-**Vision and Strategy**
+**Tools & Methods**
+
+TODO
+
+#### 3.2.4 Vision and Strategy
 
 This work will be carried out in collaboration with the leadership team.
 
-You will:
+**Actions & Behaviours**
 
 - define and communicate a clear vision for NHSUK software development
 - collaborate with the leadership team to agree a strategy to deliver the vision
 
+**Tools & Methods**
+
+TODO
 
 ### 3.3 Growing the Team
 
-**Code Reviews**
+#### 3.3.1 Pairing
 
 This work will be carried out within a delivery team.
 
-You will:
+**Actions & Behaviours**
 
-- agree a code review checklist with your team
-- invest enough time to provide a thorough review
-- review other people's code in before writing your own
-- use the code review as an opportunity to provide constructive advice and teaching
+-
+-
+-
+-
 
-**Mentoring and Pairing**
+**Tools & Methods**
+
+TODO
+
+#### 3.3.2 Mentoring
 
 This work will be carried out within a delivery team.
 
-You will:
+**Actions & Behaviours**
 
 - actively seek out opportunities to develop the skills of other developers
 - pair with other developers whenever possible to complete feature tickets
 - record who you paired with and what was discussed on the relevant Jira ticket
 
-**Coaching**
+**Tools & Methods**
+
+TODO
+
+#### 3.3.2 Coaching
 
 This work will be carried out on a one-to-one basis by arrangement with other developers.
 
-You will:
+**Actions & Behaviours**
 
 - design programmes of coaching to improve developers' knowledge of agile software development
 - bprovide one-to-one coaching to support developers through their immediate and specific work issues
 - promote a coaching culture in NHSUK software development
 
-**Delegation**
+**Tools & Methods**
+
+TODO
+
+#### 3.3.3 Delegating
 
 This work will be carried out in collaboration with the leadership team.
 
-You will:
+**Actions & Behaviours**
 
 - identify opportunities to stretch and empower other members of the leadership team
 - delegate responsibility for the completion of significant work packages (e.g. lean improvement projects)
@@ -320,179 +391,55 @@ You will:
 - provide support and guidance where requested or required
 - champion the activities of other members of the leadership team (e.g. via all-hands presentations)
 
+**Tools & Methods**
+
+TODO
 
 ### 3.4 Duty of Care
 
-**Buddy to Apprentice**
+#### 3.4.1 Buddying
 
 This work will be carried out TODO
+Note: This section refers to buddying of apprentices
 
-You will:
+**Actions & Behaviours**
 
 - bullets
 - bullets
 - bullets
 
-**Line Management and Recruitment of Band 6/7**
+**Tools & Methods**
+
+TODO
+
+#### 3.4.2 Line Management of Permanent Staff
 
 This work will be carried out on an ongoing basis.
 
-You will:
+**Actions & Behaviours**
+
+When line managing Band 6/7 staff:
 
 - comply with corporate policies and procedures
 - meet with each of your reports on the first day of each sprint...
 - ... to discuss and record progress towards objectives and key results
+- ensure your reports have sufficient work in the upcoming sprint
+- ensure your reports have included some 20% Time work in the upcoming sprint
+- discuss the planned work to help identify any support you can provide
 - ensure each of your reports is carrying out their role as described in this document
 - participate in recruitment activities and interview panels
 
-**Line Management and Recruitment of Band 8a and Contractors**
+Additionally, for Bands 8a/8b staff:
 
-This work will be carried out on an ongoing basis.
-
-You will:
-
-- comply with corporate policies and procedures
-- meet with each of your reports on the first day of each sprint...
-- ... to discuss and record progress towards objectives and key results
-- ensure each of your reports is carrying out their role as described in this document
-- participate in recruitment activities and interview panels
 - ensure your reports are appropriately managing their own reports
+- ask what their reports achieved in the last 2 weeks
+- ask what their reports are working on in the next 2 weeks
+- record praiseworthy achievements
 
-**Line Management and Recruitment of Band 8b and Contractors**
+**Tools & Methods**
 
-This work will be carried out on an ongoing basis.
+One-to-One Meetings:
 
-You will:
-
-- comply with corporate policies and procedures
-- meet with each of your reports on the first day of each sprint...
-- ... to discuss and record progress towards objectives and key results
-- ensure each of your reports is carrying out their role as described in this document
-- participate in recruitment activities and interview panels
-- ensure your reports are appropriately managing their own reports
-
-### 3.5 Finance
-
-**Payments to Contractors**
-
-This work will be carried out TODO
-
-You will:
-
-- check with Delivery Managers to ensure contractor invoices are accurate
-- make prompt payments to contractors
-
-**Overall budget**
-
-This work will be carried out TODO
-
-You will:
-
-- manage the budget for NHSUK software development
-- make payments to suppliers
-- approve other expenditure
-
-
----
-
-TODO: The notes here need moving somewhere else
-
-Participation and compliance
-
-- This is a special type of meta-monitoring
-- Principals will need to be held to account for ensuring Senior Devs do what is required, and so on
-
-How this all fits with the existing line management arrangements:
-
-- Staff will be asked to document their accomplishments through the course of a sprint
-- Staff will discuss and reflect on these accomplishments with their line managers each fortnight after the sprint retrospective (i.e. Tuesday afternoon)
-- Benefit to them: This record of continuing professional development will assist them in progressing their career. (e.g. by making it easier to prepare for promotion)
-- Benefit to them: ... Need more ways to sell this as a useful thing to the individual and the line manager.
-
----
-
-## 4. Tools & Methods
-
-TODO: This section will have checklists to guide the actions & behaviours of staff.
-TODO: Remove detail from actions & behaviours section and put here instead.
-
-Tools & Methods are best-practice approaches to Actions & Behaviours.
-
-We believe that if developers follow these guidelines then surely excellent outcomes will follow. 
-
-TODO: How about a "Do / Don't" format?
-
-TODO: Ensure linkage to Growth, Autonomy, Mastery, Purpose, Support and Structure
-
-### 4.1 Code    
-
-**Code Review**
-
-- ensure code complies with our coding standards
-
-**Pairing**
-
--
--
--
--
-
-**Sprint Planning**
-
-- help to select which Jira tickets will be in the next sprint
-- agree only to tickets that are sufficiently elaborated
-- take into account your other responsibilities when deciding how many tickets to select
-- agree only to work that you can comfortably complete (and deploy) in the next sprint
-
-**Retrospectives**
-
--
--
--
--
-
-**System Design**
-
-- check the system against the criteria in the Engineering Quality Framework
-
-**Documentation**
-
-
-
-
-
-### 4.2 Leadership and Autonomy    
-
-
-
-### 4.3 Growing the Team    
-
-What support-related roles and activities are expected of:
-
-- Sean
-- Principals
-- Jacob in particular (e.g. coaching for Senior developers)
-- Senior developers
-- Other developers
-- DMs/POs
-- Anyone else
-
-There are various activities to be distributed amongst the stakeholders:
-
-- Compliance with the process/system itself
-- Collecting information (e.g. to measure the success of our approach)
-- Filtering/evaluating information (e.g. who deserves praise this week)
-- Meetings and interactions (e.g. weekly 1-2-1s, regular discussions with DMs/POs)
-- Promotion/Communication (e.g. about the system, but also public praise for individuals)
-- Decisions that may need to be taken in response to certain triggers
-- Various kinds of support or intervention
-- Production of educational or supporting documentation
-
-### 4.4 Duty of Care    
-
-**One-to-One Meetings**
-
-- a primary method of line management
 - must take place on the first day of a new sprint
 - begin by reviewing achievements against previous meeting's commitments
 - then identify the individual's commitments for the upcoming sprint...
@@ -502,13 +449,88 @@ There are various activities to be distributed amongst the stakeholders:
 - does the individual need any extra support to meet their commitments?
 
 
-### 4.5 Finance
+#### 3.4.3 Line Management of Contractors
+
+TODO
+
+**Actions & Behaviours**
+
+- TODO
+- TODO
+- TODO
+
+**Tools & Methods**
+
+Contractor Check-ins:
+
+-
+-
+-
+-
+
+### 3.5 Finance
+
+#### 3.5.1 Payments to Contractors
+
+This work will be carried out TODO
+
+**Actions & Behaviours**
+
+- check with Delivery Managers to ensure contractor invoices are accurate
+- make prompt payments to contractors
+
+**Tools & Methods**
+
+TODO
+
+#### 3.5.2 Overall budget
+
+This work will be carried out TODO
+
+**Actions & Behaviours**
+
+- manage the budget for NHSUK software development
+- make payments to suppliers
+- approve other expenditure
+
+**Tools & Methods**
+
+TODO
+
+---
+
+## 4. Quarterly objective setting cycle
+
+TODO
+
+This is going to be very similar to the system Jacob already put in place. We can reuse some of the diagrams used to explain that system (in particular the goal-setting and 1-2-1 reviews) because they remain identical.
+
+Need to produce a calendar showing key activities
+
+Monthly-ish granularity i.e. to the level of when devs should be updating the corporate system with news about completed objectives.
+
+---
+
+APPENDICES
+
+TODO: Example content of a Quick Guide
+
+- Title
+- Introduction (what is this)
+- Your role and responsibilities
+- Expected behaviours
+- How you will be supported (specifically)
+- How you will support others (specifically)
+- Useful checklists
+- FAQs
 
 
 
 
 
+---
 
+## 5. STUFF TO MOVE ELSEWHERE
 
 **Coaching support**
 
@@ -568,82 +590,13 @@ Positive triggers:
 - Plenty of other potential positive triggers: shipping code N sprints in a row, obtaining a new qualification, etc.
 
 
-## 5. Quarterly objective setting cycle
-
-TODO
-
-This is going to be very similar to the system Jacob already put in place. We can reuse some of the diagrams used to explain that system (in particular the goal-setting and 1-2-1 reviews) because they remain identical.
-
-Need to produce a calendar showing key activities
-
-Monthly-ish granularity i.e. to the level of when devs should be updating the corporate system with news about completed objectives.
-
----
-
-APPENDICES
-
-TODO: Example content of a Quick Guide
-
-- Title
-- Introduction (what is this)
-- Your role and responsibilities
-- Expected behaviours
-- How you will be supported (specifically)
-- How you will support others (specifically)
-- Useful checklists
-- FAQs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# UNRESOLVED QUESTIONS
-
-This section is for recording 
-
-
-
-
-## Contractors
-
-- How should we manage the performance of contractors?
-- Should this be a completely separate thing from this document?
-- Should we even try?
-- Is it even our responsibility?
-- Should DMs not Principal Engineers line manage the contractors?
-- What could be the impact on developers if they are part of this new system but contractors are not?
-
-
----
-
-# REMOVED
-
-TODO: Decide whether any of the below can usefully be reincorporated into the above structure
-
-## 2. Goals of $THIS
+**Goals**
 
 - What specifically are we trying to achieve here.
 
 TODO: Our Values (by definition) should help deliver these goals. Therefore, set out the things below as benefits of the appropriate Value when discussing them in the later section.
 
-### 2.1 Individual Goals
+**2.1 Individual Goals**
 
 - Promote a working environment conducive to happiness and good mental health
 - Help them to do their best work
@@ -653,14 +606,14 @@ TODO: Our Values (by definition) should help deliver these goals. Therefore, set
 - Clarify roles and responsibility
 - Clarify expectations to prevent overwork
 
-### 2.2 Team Goals
+**2.2 Team Goals**
 
 - Help teams make best use of the resource available to them
 - Help teams to operate in a more agile way
 - Delivery of more value and higher quality to the public
 - Better working relations/environment
 
-### 2.3 Organisational Goals
+**2.3 Organisational Goals**
 
 - Produce evidence to demonstrate that our developers are contributing adequately (i.e. protect them from outside interference and misguided attempts to judge them)
 - Support the long-term availability of a suitably skilled team of developers (i.e. the team needs to be a "going concern" in business-speak)
@@ -669,26 +622,26 @@ TODO: Our Values (by definition) should help deliver these goals. Therefore, set
 
 ---
 
-## 3. Barriers to Success
+**Barriers to Success**
 
 - What could prevent us from achieving our goals.
 - How will we avoid falling into these traps.
 
 TODO: Our Values (by definition) should help deliver these goals. Therefore, set out the things below as benefits of the appropriate Value when discussing them in the later section.
 
-### 3.1 Individual Barriers
+**Individual Barriers**
 
 - Individuals usually fear and despise any approach to performance management.
 - Individuals may refuse to comply with an intrusive process.
 - Individuals may believe there is no reward for success, so why bother.
 
-### 3.2 Team Barriers
+**3.2 Team Barriers**
 
 - Continuing professional development is often disconnected from the flow of work, and therefore gets overlooked.
 - Lack of psychological safety in teams may hide or prevent useful feedback.
 - Teams are often focussed more on deadlines and delivery rather than in creating the conditions for growth and workforce success.
 
-### 3.3 Organisational Barriers
+**Organisational Barriers**
 
 - May fail to generate the required team capabilities.
 - Tempting to get lost in process rather than focusing on culture and mindset.
