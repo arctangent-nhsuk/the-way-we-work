@@ -131,7 +131,7 @@ TODO: Will we also monitor how many pair programming (or mentoring) sessions are
 
 ---
 
-## 2. Roles
+## 2. Roles Explained
 
 ### 2.1 Summary
 
@@ -150,7 +150,7 @@ The responsibility matrix below shows pay bands across the top and areas of resp
 | **FOCUS** | **SELF** | **SINGLE TEAM** | **MULTIPLE TEAMS** | **ALL TEAMS** |
 |**CODE**| Feature Development | System Design and Documentation | Engineering Quality Framework |                |
 |**LEADERSHIP and AUTONOMY**| 20% Time | SDMT Operational Planning | Strategy Implementation and Lean Improvement Projects | Vision and Strategy |
-|**GROWING THE TEAM**| Code Reviews | Mentoring and Pairing | Coaching | Delegation |
+|**GROWING THE TEAM**| Pairing | Mentoring | Coaching | Delegating |
 |**DUTY OF CARE**| Buddying | Line Management | Line Management | Line Management |
 |**FINANCE**|  |  | Payments to Contractors | Overall budget |
 
@@ -168,7 +168,9 @@ TODO: Possible alternative:
 This will usually mean a developer working on activities in their own column in favour of activities in preceeding columns.
 
 
-## 3. Responsibilities
+## 3. Responsibilities Explained
+
+TODO: Explain how Section 3 is structured
 
 Actions & Behaviours are the things we expect developers to do within their areas of responsibility.
 
@@ -194,6 +196,31 @@ This work will be carried out within a delivery team.
 - commit code which is deployed to production at least once per sprint
 - attend a retrospective at the end of each sprint
 
+**Tools & Methods**
+
+Code Review:
+
+- agree a code review checklist with your team
+- review other people's code before writing your own
+- invest enough time to provide a thorough review
+- ensure code complies with our coding standards
+- ensure you understand the new code
+- use the code review as an opportunity to provide constructive advice and teaching
+
+Sprint Planning:
+
+- help to select which Jira tickets will be in the next sprint
+- agree only to tickets that are sufficiently elaborated
+- take into account your other responsibilities when deciding how many tickets to select
+- agree only to work that you can comfortably complete (and deploy) in the next sprint
+
+Retrospectives:
+
+-
+-
+-
+-
+
 #### 3.1.2 System Design and Documentation**
 
 This work will be carried out within a delivery team.
@@ -207,6 +234,18 @@ This work will be carried out within a delivery team.
 - ensure the solution is delivered in a way that maximises the involvement and learning of other team members
 - provide specialist technical advice to other team members
 
+**Tools & Methods**
+
+System Design:
+
+- check the system against the criteria in the Engineering Quality Framework
+
+Documentation:
+
+-
+-
+-
+
 #### 3.1.3 Engineering Quality Framework
 
 This work will be carried out in collaboration with SDMT.
@@ -216,6 +255,10 @@ This work will be carried out in collaboration with SDMT.
 - maintain and develop technical expertise in the EQF areas
 - design and deliver technical prototypes or experiments to inform decisions and future development
 - collaborate with the leadership team to decide the future technical direction of NHSUK
+
+**Tools & Methods**
+
+TODO
 
 ### 3.2 Leadership and Autonomy
 
@@ -232,6 +275,10 @@ This work will be carried out in collaboration with SDMT.
 - select at least one of these Jira tickets to work on in each sprint
 - ensure this ticket(s) are included in the sprint backlog
 
+**Tools & Methods**
+
+TODO
+
 #### 3.2.2 SDMT Operational Planning
 
 This work will be carried out in collaboration with SDMT.
@@ -246,6 +293,10 @@ This work will be carried out in collaboration with SDMT.
 - maintain coding standards documentation
 - help to maintain the SDMT Plan
 
+**Tools & Methods**
+
+TODO
+
 #### 3.2.3 Strategy Implementation and Lean Improvement Projects
 
 This work will be carried out in collaboration with the leadership team.
@@ -257,6 +308,10 @@ This work will be carried out in collaboration with the leadership team.
 - design lean improvement projects to deliver improvements across multiple products
 - lead, motivate and hold to account other developers to deliver the desired improvements
 
+**Tools & Methods**
+
+TODO
+
 #### 3.2.4 Vision and Strategy
 
 This work will be carried out in collaboration with the leadership team.
@@ -266,21 +321,28 @@ This work will be carried out in collaboration with the leadership team.
 - define and communicate a clear vision for NHSUK software development
 - collaborate with the leadership team to agree a strategy to deliver the vision
 
+**Tools & Methods**
+
+TODO
 
 ### 3.3 Growing the Team
 
-#### 3.3.1 Code Reviews
+#### 3.3.1 Pairing
 
 This work will be carried out within a delivery team.
 
 **Actions & Behaviours**
 
-- agree a code review checklist with your team
-- invest enough time to provide a thorough review
-- review other people's code in before writing your own
-- use the code review as an opportunity to provide constructive advice and teaching
+-
+-
+-
+-
 
-#### 3.3.2 Mentoring and Pairing
+**Tools & Methods**
+
+TODO
+
+#### 3.3.2 Mentoring
 
 This work will be carried out within a delivery team.
 
@@ -289,6 +351,10 @@ This work will be carried out within a delivery team.
 - actively seek out opportunities to develop the skills of other developers
 - pair with other developers whenever possible to complete feature tickets
 - record who you paired with and what was discussed on the relevant Jira ticket
+
+**Tools & Methods**
+
+TODO
 
 #### 3.3.2 Coaching
 
@@ -300,7 +366,11 @@ This work will be carried out on a one-to-one basis by arrangement with other de
 - bprovide one-to-one coaching to support developers through their immediate and specific work issues
 - promote a coaching culture in NHSUK software development
 
-#### 3.3.3 Delegation
+**Tools & Methods**
+
+TODO
+
+#### 3.3.3 Delegating
 
 This work will be carried out in collaboration with the leadership team.
 
@@ -312,6 +382,9 @@ This work will be carried out in collaboration with the leadership team.
 - provide support and guidance where requested or required
 - champion the activities of other members of the leadership team (e.g. via all-hands presentations)
 
+**Tools & Methods**
+
+TODO
 
 ### 3.4 Duty of Care
 
@@ -325,6 +398,10 @@ Note: This section refers to buddying of apprentices
 - bullets
 - bullets
 - bullets
+
+**Tools & Methods**
+
+TODO
 
 #### 3.4.2 Line Management of Permanent Staff
 
@@ -344,6 +421,19 @@ Additionally, for Bands 8a/8b staff:
 
 - ensure your reports are appropriately managing their own reports
 
+**Tools & Methods**
+
+One-to-One Meetings:
+
+- a primary method of line management
+- must take place on the first day of a new sprint
+- begin by reviewing achievements against previous meeting's commitments
+- then identify the individual's commitments for the upcoming sprint...
+- ... which will include Jira tickets from their team backlog as well as 20% time work towards their OKRs
+- help the individual to identify barriers to success and think through ways to overcome them
+- the individual should commit to completing certain activities/tickets before the next meeting
+- does the individual need any extra support to meet their commitments?
+
 
 #### 3.4.3 Line Management of Contractors
 
@@ -354,6 +444,15 @@ TODO
 - TODO
 - TODO
 - TODO
+
+**Tools & Methods**
+
+Contractor Check-ins:
+
+-
+-
+-
+-
 
 ### 3.5 Finance
 
@@ -366,6 +465,10 @@ This work will be carried out TODO
 - check with Delivery Managers to ensure contractor invoices are accurate
 - make prompt payments to contractors
 
+**Tools & Methods**
+
+TODO
+
 #### 3.5.2 Overall budget
 
 This work will be carried out TODO
@@ -376,13 +479,44 @@ This work will be carried out TODO
 - make payments to suppliers
 - approve other expenditure
 
+**Tools & Methods**
 
+TODO
+
+---
+
+## 4. Quarterly objective setting cycle
+
+TODO
+
+This is going to be very similar to the system Jacob already put in place. We can reuse some of the diagrams used to explain that system (in particular the goal-setting and 1-2-1 reviews) because they remain identical.
+
+Need to produce a calendar showing key activities
+
+Monthly-ish granularity i.e. to the level of when devs should be updating the corporate system with news about completed objectives.
+
+---
+
+APPENDICES
+
+TODO: Example content of a Quick Guide
+
+- Title
+- Introduction (what is this)
+- Your role and responsibilities
+- Expected behaviours
+- How you will be supported (specifically)
+- How you will support others (specifically)
+- Useful checklists
+- FAQs
 
 
 
 
 
 ---
+
+## 5. STUFF TO MOVE ELSEWHERE
 
 TODO: The notes here need moving somewhere else
 
@@ -400,7 +534,7 @@ How this all fits with the existing line management arrangements:
 
 ---
 
-## 4. Tools & Methods
+
 
 TODO: This section will have checklists to guide the actions & behaviours of staff.
 TODO: Remove detail from actions & behaviours section and put here instead.
@@ -413,48 +547,11 @@ TODO: How about a "Do / Don't" format?
 
 TODO: Ensure linkage to Growth, Autonomy, Mastery, Purpose, Support and Structure
 
-### 4.1 Code    
-
-**Code Review**
-
-- ensure code complies with our coding standards
-
-**Pairing**
-
--
--
--
--
-
-**Sprint Planning**
-
-- help to select which Jira tickets will be in the next sprint
-- agree only to tickets that are sufficiently elaborated
-- take into account your other responsibilities when deciding how many tickets to select
-- agree only to work that you can comfortably complete (and deploy) in the next sprint
-
-**Retrospectives**
-
--
--
--
--
-
-**System Design**
-
-- check the system against the criteria in the Engineering Quality Framework
-
-**Documentation**
 
 
 
 
-
-### 4.2 Leadership and Autonomy    
-
-
-
-### 4.3 Growing the Team    
+4.3 Growing the Team    
 
 What support-related roles and activities are expected of:
 
@@ -476,27 +573,6 @@ There are various activities to be distributed amongst the stakeholders:
 - Decisions that may need to be taken in response to certain triggers
 - Various kinds of support or intervention
 - Production of educational or supporting documentation
-
-### 4.4 Duty of Care    
-
-**One-to-One Meetings**
-
-- a primary method of line management
-- must take place on the first day of a new sprint
-- begin by reviewing achievements against previous meeting's commitments
-- then identify the individual's commitments for the upcoming sprint...
-- ... which will include Jira tickets from their team backlog as well as 20% time work towards their OKRs
-- help the individual to identify barriers to success and think through ways to overcome them
-- the individual should commit to completing certain activities/tickets before the next meeting
-- does the individual need any extra support to meet their commitments?
-
-
-### 4.5 Finance
-
-
-
-
-
 
 
 **Coaching support**
@@ -557,82 +633,13 @@ Positive triggers:
 - Plenty of other potential positive triggers: shipping code N sprints in a row, obtaining a new qualification, etc.
 
 
-## 5. Quarterly objective setting cycle
-
-TODO
-
-This is going to be very similar to the system Jacob already put in place. We can reuse some of the diagrams used to explain that system (in particular the goal-setting and 1-2-1 reviews) because they remain identical.
-
-Need to produce a calendar showing key activities
-
-Monthly-ish granularity i.e. to the level of when devs should be updating the corporate system with news about completed objectives.
-
----
-
-APPENDICES
-
-TODO: Example content of a Quick Guide
-
-- Title
-- Introduction (what is this)
-- Your role and responsibilities
-- Expected behaviours
-- How you will be supported (specifically)
-- How you will support others (specifically)
-- Useful checklists
-- FAQs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# UNRESOLVED QUESTIONS
-
-This section is for recording 
-
-
-
-
-## Contractors
-
-- How should we manage the performance of contractors?
-- Should this be a completely separate thing from this document?
-- Should we even try?
-- Is it even our responsibility?
-- Should DMs not Principal Engineers line manage the contractors?
-- What could be the impact on developers if they are part of this new system but contractors are not?
-
-
----
-
-# REMOVED
-
-TODO: Decide whether any of the below can usefully be reincorporated into the above structure
-
-## 2. Goals of $THIS
+**Goals**
 
 - What specifically are we trying to achieve here.
 
 TODO: Our Values (by definition) should help deliver these goals. Therefore, set out the things below as benefits of the appropriate Value when discussing them in the later section.
 
-### 2.1 Individual Goals
+**2.1 Individual Goals**
 
 - Promote a working environment conducive to happiness and good mental health
 - Help them to do their best work
@@ -642,14 +649,14 @@ TODO: Our Values (by definition) should help deliver these goals. Therefore, set
 - Clarify roles and responsibility
 - Clarify expectations to prevent overwork
 
-### 2.2 Team Goals
+**2.2 Team Goals**
 
 - Help teams make best use of the resource available to them
 - Help teams to operate in a more agile way
 - Delivery of more value and higher quality to the public
 - Better working relations/environment
 
-### 2.3 Organisational Goals
+**2.3 Organisational Goals**
 
 - Produce evidence to demonstrate that our developers are contributing adequately (i.e. protect them from outside interference and misguided attempts to judge them)
 - Support the long-term availability of a suitably skilled team of developers (i.e. the team needs to be a "going concern" in business-speak)
@@ -658,26 +665,26 @@ TODO: Our Values (by definition) should help deliver these goals. Therefore, set
 
 ---
 
-## 3. Barriers to Success
+**Barriers to Success**
 
 - What could prevent us from achieving our goals.
 - How will we avoid falling into these traps.
 
 TODO: Our Values (by definition) should help deliver these goals. Therefore, set out the things below as benefits of the appropriate Value when discussing them in the later section.
 
-### 3.1 Individual Barriers
+**Individual Barriers**
 
 - Individuals usually fear and despise any approach to performance management.
 - Individuals may refuse to comply with an intrusive process.
 - Individuals may believe there is no reward for success, so why bother.
 
-### 3.2 Team Barriers
+**3.2 Team Barriers**
 
 - Continuing professional development is often disconnected from the flow of work, and therefore gets overlooked.
 - Lack of psychological safety in teams may hide or prevent useful feedback.
 - Teams are often focussed more on deadlines and delivery rather than in creating the conditions for growth and workforce success.
 
-### 3.3 Organisational Barriers
+**Organisational Barriers**
 
 - May fail to generate the required team capabilities.
 - Tempting to get lost in process rather than focusing on culture and mindset.
