@@ -1,7 +1,7 @@
 
 # The Way We Work: Quick Guide for Principal Engineers
 
-## Your Objective
+## Your Role
 
 Your role is to use software engineering best practices to support rapid and safe delivery of high-quality software.
 
@@ -10,10 +10,10 @@ Your role is to use software engineering best practices to support rapid and saf
 At this stage in your career you should focus on the success and professional development of
 
 - your direct reports (i.e. the people who you line manage)
-- your indirect reports (i.e. the people who they in turn line manage)
+- your indirect reports (i.e. the people who your direct reports line manage)
 - the people operating within multiple (possibly all) Delivery Teams
 
-## Your Role
+## Your Responsibilities
 
 Your key responsibilities are to:
 

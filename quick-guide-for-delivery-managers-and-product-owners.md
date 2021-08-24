@@ -13,7 +13,7 @@ We aim to use software engineering best practices to support rapid and safe deli
 - We aim to ensure individuals at all levels receive the support they need
 - We aim to structure our support in line with the corporate performance management process and our own quarterly objective setting cycle
 
-## Developer Resposnibilities
+## Developer Responsibilities
 
 As in all professions, we expect that as developers rise through the ranks their focus should shift from individual work to a whole-team approach.
 

@@ -1,7 +1,7 @@
 
 # The Way We Work: Quick Guide for Developers
 
-## Your Objective
+## Your Role
 
 Your role is to use software engineering best practices to support rapid and safe delivery of high-quality software.
 
@@ -9,7 +9,7 @@ Your role is to use software engineering best practices to support rapid and saf
 
 At this stage in your career you should focus on your own personal success and professional development, while doing what you can to help others to succeed.
 
-## Your Role
+## Your Responsibilities
 
 Your key responsibilities are to:
 

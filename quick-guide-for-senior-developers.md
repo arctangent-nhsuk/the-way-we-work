@@ -1,7 +1,7 @@
 
 # The Way We Work: Quick Guide for Senior Developers
 
-## Your Objective
+## Your Role
 
 Your role is to use software engineering best practices to support rapid and safe delivery of high-quality software.
 
@@ -12,7 +12,7 @@ At this stage in your career you should focus on the success and professional de
 - your direct reports (i.e. the people who you line manage)
 - the people within your Delivery Team
 
-## Your Role
+## Your Responsibilities
 
 Your key responsibilities are to:
 
