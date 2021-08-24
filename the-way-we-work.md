@@ -121,7 +121,7 @@ The leadership team will monitor how often developers are able to contribute cod
 
 We do our best work when we work together and when we help each other to improve.
 
-The leadership ßteam will monitor activity on Jira tickets.
+The leadership team will monitor activity on Jira tickets.
 
 TODO: Will we also monitor how many pair programming (or mentoring) sessions are taking place?
 
