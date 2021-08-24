@@ -342,10 +342,9 @@ This work will be carried out within a delivery team.
 
 **Actions & Behaviours**
 
--
--
--
--
+- you will work together with other members of a delivery team when you think this would be productive
+- pairing can take place both with technical and non-technical delivery team members
+- pairing should lead to higher quality work and improved knowledge sharing
 
 **Tools & Methods**
 
