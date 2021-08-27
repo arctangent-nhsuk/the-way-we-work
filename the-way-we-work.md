@@ -157,7 +157,7 @@ Developers should focus on activities in their own column rather than activities
 
 ## 3. Responsibilities Explained
 
-This section lists the key best practices within each of the areas of responsibilities above.
+This section lists the key best practices required within each of the responsibility areas.
 
 We believe that if developers do these things, and if they try to always improve how they do them, then surely excellent outcomes will follow. 
 
@@ -360,7 +360,7 @@ This work will be carried out on an ongoing basis.
 
 #### 3.5.1 Payments to Contractors
 
-This work will be carried out on an ongoing basis
+This work will be carried out on an ongoing basis.
 
 - check with Delivery Managers to ensure contractor invoices are accurate
 - make prompt payments to contractors (e.g. batched payments Tuesday morning)
