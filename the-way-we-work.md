@@ -1,18 +1,19 @@
 
 # The Way We Work - NHSUK Software Development
 
+---
+
+TODO: Use corporate controlled document template
+
+TODO: Do the Quick Guides reconcile with (match up to) the main document
+
+---
 
 > Not only must the physician show himself prepared to do what is necessary, he must also secure the co-operation of the patient, the attendants, and of external circumstances.
 
 -- Hippocrates
 
 ---
-
-TODO: Ensure linkage to Growth, Autonomy, Mastery, Purpose, Support and Structure
-
----
-
-TODO: Use corporate controlled document template
 
 - Version
 - Author: Jacob
@@ -42,11 +43,11 @@ TODO: Use corporate controlled document template
     3.4 Duty of Care    
     3.5 Finance      
 4. Quarterly objective setting cycle
-    5.1    
-    5.2    
-    5.3    
-    5.4    
-    5.5    
+    4.1    
+    4.2    
+    4.3    
+    4.4    
+    4.5    
 99. Appendices  
     - N1. Quick Guide for Principal Engineers  
     - N2. Quick Guide for Senior Developers  
@@ -61,17 +62,17 @@ TODO: Use corporate controlled document template
 
 ### 1.1 What is The Way We Work?
 
-This document sets out our vision for the environment and culture within which we wish NHSUK software developers to operate. It also explains how we intend to bring about and maintain that environment and culture.
+This document and its appendices set out our vision for how software developers should go about their work within NHSUK. 
 
-As such, this document is intended to provide an overall policy position so that the Dev & Test Leadership Team ("the leadership team") can act independently in a fair and consistent way while bringing about the policy objectives.
+It provides a view of our policy arranged in such a way that the Development & Test Leadership Team ("the leadership team") can act independently in a fair and consistent way while bringing about the policy objectives.
 
-While we'd encourage all developers and related professionals to read this document, we'd also recommend referring to the relevant Quick Guide in the appendices to see what this policy means for you specifically. 
+While we'd encourage all developers and related professionals to read this document, the best way to get started is to read the appropriate Quick Guide in the appendices to see what this policy means for you specifically.
 
 ### 1.2 Why have we created The Way We Work?
 
-Recent surveys of NHSUK developers have told us that in order to do their best work they need a clearer explanation of their roles and more support from the leadership team. This document is our attempt to meet those needs.
+Developers have told us that in order to do their best work they need a clearer explanation of their roles and more support from the leadership team. This document is our attempt to meet those needs.
 
-The leadership team have also been receiving strong messages from both the Director of Product Delivery, its Head of Engineering, and our own Head of Delivery about the urgent need to re-focus our activities to secure improvements in certain key areas. This document explains the systems which we believe will bring about those improvements.
+The leadership team are also mindful of improvement targets set by senior managers including the Director of Product Delivery, the Head of Software Engineering, and NHSUK's Head of Delivery. This document explains how we will empower our developers to bring about the required improvements.
 
 ### 1.3 How we designed The Way We Work
 
@@ -123,27 +124,23 @@ We do our best work when we work together and when we help each other to improve
 
 The leadership team will monitor activity on Jira tickets.
 
-TODO: Will we also monitor how many pair programming (or mentoring) sessions are taking place?
-
-
-
-
-
 ---
 
 ## 2. Roles Explained
 
 ### 2.1 Summary
 
-The new responsibilities acquired at each pay band build upon the responsibilities of the band below.
+All software developers have a shared purpose: to use software engineering best practices to support rapid and safe delivery of high-quality software.
 
-A developer's "role" is therefore the sum of all the responsibilities at their own band and of the bands below.
+However, we must match the right people to the right tasks to make sure all the work gets done and to make sure work remains challenging and enjoyable for all our developers.
 
-However, as developers increase in seniority their general focus is expected to shift from individual work to a whole-team approach.
+Certain work areas require more knowledge, skills, and experience than others. Therefore, the seniority of a software developer determines which types of work they should focus on. 
+
+As a general rule, as a developer progresses through their career we expect their general focus to shift from individual work to a whole-team approach.
 
 ### 2.2 Responsibility Matrix
 
-The responsibility matrix below shows pay bands across the top and areas of responsibility down the side. The new responsibilities acquired at each role are therefore set out in a columnar fashion.
+The responsibility matrix below shows pay bands across the top and areas of responsibility down the side. The new responsibilities acquired at each pay band are therefore set out in a columnar fashion.
 
 |ROLE TITLE|Developer (bands 6 & 7)|Senior Developer (band 8a)|Principal Engineer (band 8b)|Development & Test Manager (band 8c)|
 |---| :--------------- | :--------- | :--------------- | -------------- |
@@ -154,33 +151,15 @@ The responsibility matrix below shows pay bands across the top and areas of resp
 |**DUTY OF CARE**| Buddying | Line Management | Line Management | Line Management |
 |**FINANCE**|  |  | Payments to Contractors | Overall budget |
 
+Developers should focus on activities in their own column rather than activities in preceeding columns.
 
-### 2.3 Time Allocation
-
-When deciding what to work on next, there is one simple rule:
-
-> Prioritise those activities delivering the most benefit to others
-
-TODO: Possible alternative:
-
-> "Help others before you help yourself"
-
-This will usually mean a developer working on activities in their own column in favour of activities in preceeding columns.
-
+---
 
 ## 3. Responsibilities Explained
 
-TODO: Explain how Section 3 is structured
-
-Actions & Behaviours are the things we expect developers to do within their areas of responsibility.
+This section lists the key best practices within each of the areas of responsibilities above.
 
 We believe that if developers do these things, and if they try to always improve how they do them, then surely excellent outcomes will follow. 
-
-Note that according to the responsibility matrix above, only some of the below actions and behaviours will be appropriate for each role.
-
-TODO: This section should be "WHAT and HOW OFTEN". Move details to Tools & Methods
-
-TODO: Alternative approach: Combine into "Actions & Behaviours, Tools & Methods" or "Behaviours & Methods" etc.
 
 ### 3.1 Code
 
@@ -188,37 +167,32 @@ TODO: Alternative approach: Combine into "Actions & Behaviours, Tools & Methods"
 
 This work will be carried out within a delivery team.
 
-**Actions & Behaviours**
+**Sprint Planning**
 
 - attend sprint planning at the beginning of each sprint
-- write code which is deployed to production at least once per sprint
-- ensure Jira tickets assigned to you are kept up to date
-- review the code of other developers in your team
-- attend a retrospective at the end of each sprint
-
-**Tools & Methods**
-
-Sprint Planning:
-
 - help to select which stories will be in the next sprint
-- agree only to tickets that are sufficiently elaborated
+- agree to select only those tickets which are sufficiently elaborated
 - take into account your other responsibilities when deciding how many tickets to select
-- agree only to work that you can comfortably complete (and deploy) in the next sprint
+- agree only to an amount of work that you can comfortably complete (and deploy) in the next sprint
 - ensure the solution is delivered incrementally, with a deployment each sprint
 
-Writing Code:
+**Writing Code**
 
+- write code which is deployed to production at least once per sprint
 - collaborate with fellow developers to select appropriate tickets from the sprint backlog
 - comply with coding standards while creating new code
 - ensure you write unit tests, and collaborate with testers to ensure they can write tests too
 
-Jira Tickets:
+**Jira Tickets**
 
+- ensure Jira tickets assigned to you are kept up to date
 - write notes on Jira tickets to record progress or document blockers
+- write notes on Jira tickets to record mentoring/pairing and what was learned
 - change the status of Jira tickets promptly to help keep your team informed
 
-Code Review:
+**Code Review**
 
+- review the code of other developers in your team
 - ensure your team is following a code review checklist
 - review other people's code before writing your own
 - invest enough time to provide a thorough review
@@ -226,113 +200,78 @@ Code Review:
 - ensure you understand the new code
 - use the code review as an opportunity to provide constructive advice and teaching
 
-Retrospectives:
+**Retrospectives**
 
+- attend a retrospective at the end of each sprint
 - before attending a retrospective, reflect on what went well in the last sprint and what went less well
 - express your opinions honestly in the retrospective whilst respecting other people's feelings
 - ensure that Jira tickets are created to address issues
 - ensure improvement tickets are brought into the following sprint so that improvements can be realised
 
-#### 3.1.2 System Design and Documentation**
+#### 3.1.2 System Design and Documentation
 
 This work will be carried out within a delivery team.
 
-**Actions & Behaviours**
-
 - lead the design of the solution
 - ensure the system remains well-documented at all times
-
-**Tools & Methods**
-
-System Design:
-
 - check the system against the criteria in the Engineering Quality Framework
 - ensure the system conforms to approved NHSUK architecture patterns
-
-Documentation:
-
--
--
--
+- ensure all architecture decisions are documented in a standard location
+- ensure code and tests are sufficiently documented
+- ensure documentation allows new team members to contribute to the project
+- ensure each project has a README.md file containing (at least) links to complete documentation
+- maintain coding standards documentation
 
 #### 3.1.3 Engineering Quality Framework
 
 This work will be carried out in collaboration with SDMT.
 
-**Actions & Behaviours**
-
 - maintain and develop technical expertise in the EQF areas
 - design and deliver technical prototypes or experiments to inform decisions and future development
 - collaborate with the leadership team to decide the future technical direction of NHSUK
-
-**Tools & Methods**
-
-TODO
+- ensure scores in the EQF areas are tracked for each of our products
+- maintain up-to-date technical expertise through regular and routine learning
+- collaborate with other Principal Engineers to share knowledge and discuss improvement ideas
+- provide expert technical advice to SDMT and individual Senior Developers are required
 
 ### 3.2 Leadership and Autonomy
 
 #### 3.2.1 20% Time
 
-**Actions & Behaviours**
+This work will be carried out within a delivery team.
 
-- agree 3 suitable personal objectives and corresponding key results with your line manager
-- ensure that one of these objectives is related to an agreed training activity
+- agree and document your personal objectives as part of the quarterly objective setting cycle
 - spend one day each week working on your personal objectives
-- enter your objectives and key results on the corporate PDR system
 - update the corporate PDR system with progress against your objectives and key results
-- ensure Jira tickets are created for these objectives
-- select at least one of these Jira tickets to work on in each sprint
-- ensure this ticket(s) are included in the sprint backlog
-
-**Tools & Methods**
-
-TODO
+- ensure Jira tickets are created for your personal objectives...
+- ... and ensure your ticket(s) are brought into the sprint backlog when appropriate
 
 #### 3.2.2 SDMT Operational Planning
 
 This work will be carried out in collaboration with SDMT.
 
-**Actions & Behaviours**
-
 - attend the Senior Developers Management Team (SDMT) meeting each week
+- help to maintain and execute the SDMT Plan
 - chair SDMT on a rotating basis, preparing the agenda and writing meeting minutes
 - share important developments in your team or area of work
 - raise and discuss problems that require cross-team collaboration to solve
 - offer your assistance to help solve cross-team problems
-- maintain coding standards documentation
-- help to maintain the SDMT Plan
-
-**Tools & Methods**
-
-TODO
 
 #### 3.2.3 Strategy Implementation and Lean Improvement Projects
 
 This work will be carried out in collaboration with the leadership team.
 
-**Actions & Behaviours**
-
-- identify and agree priority improvement areas with the Dev & Test Manager
-- select one area per quarter to target for improvements as a personal objective
 - design lean improvement projects to deliver improvements across multiple products
 - lead, motivate and hold to account other developers to deliver the desired improvements
-
-**Tools & Methods**
-
-TODO
+- identify and agree priority improvement areas with DTLT
+- select one area per quarter to target as a personal objective
 
 #### 3.2.4 Vision and Strategy
 
 This work will be carried out in collaboration with the leadership team.
 
-**Actions & Behaviours**
-
 - define and communicate a clear vision for NHSUK software development
 - collaborate with the leadership team to agree a strategy to deliver the vision
-
-**Tools & Methods**
-
-TODO
 
 ### 3.3 Growing the Team
 
@@ -340,49 +279,32 @@ TODO
 
 This work will be carried out within a delivery team.
 
-**Actions & Behaviours**
-
-- you will work together with other members of a delivery team when you think this would be productive
+- work together with other members of a delivery team when you think this would be productive
 - pairing can take place both with technical and non-technical delivery team members
-- pairing should lead to higher quality work and improved knowledge sharing
-
-**Tools & Methods**
-
-TODO
+- remember that pairing should lead to higher quality work and improved knowledge sharing
 
 #### 3.3.2 Mentoring
 
 This work will be carried out within a delivery team.
 
-**Actions & Behaviours**
-
-- actively seek out opportunities to develop the skills of other developers
-- pair with other developers whenever possible to complete feature tickets
+- mentor other developers within your delivery team
+- actively seek out opportunities to develop the knowledge and skills of other developers
+- pair with other developers whenever possible to complete feature tickets instead of working alone
 - record who you paired with and what was discussed on the relevant Jira ticket
-
-**Tools & Methods**
-
-TODO
 
 #### 3.3.2 Coaching
 
 This work will be carried out on a one-to-one basis by arrangement with other developers.
 
-**Actions & Behaviours**
-
 - design programmes of coaching to improve developers' knowledge of agile software development
-- bprovide one-to-one coaching to support developers through their immediate and specific work issues
+- provide one-to-one coaching to support developers through their immediate and specific work issues
 - promote a coaching culture in NHSUK software development
-
-**Tools & Methods**
-
-TODO
+- obtain a recognised coaching qualification
+- develop and maintain knowledge of coaching methods, tools, techniques etc.
 
 #### 3.3.3 Delegating
 
 This work will be carried out in collaboration with the leadership team.
-
-**Actions & Behaviours**
 
 - identify opportunities to stretch and empower other members of the leadership team
 - delegate responsibility for the completion of significant work packages (e.g. lean improvement projects)
@@ -390,111 +312,66 @@ This work will be carried out in collaboration with the leadership team.
 - provide support and guidance where requested or required
 - champion the activities of other members of the leadership team (e.g. via all-hands presentations)
 
-**Tools & Methods**
-
-TODO
-
 ### 3.4 Duty of Care
 
 #### 3.4.1 Buddying
 
-This work will be carried out TODO
-Note: This section refers to buddying of apprentices
+This work will be carried out on an ongoing basis.
 
-**Actions & Behaviours**
-
-- bullets
-- bullets
-- bullets
-
-**Tools & Methods**
-
-TODO
+- act as the first point of contact to an apprentice or new joiner
+- assist them with their issues in preference to doing other work
 
 #### 3.4.2 Line Management of Permanent Staff
 
 This work will be carried out on an ongoing basis.
-
-**Actions & Behaviours**
 
 When line managing Band 6/7 staff:
 
 - comply with corporate policies and procedures
 - meet with each of your reports on the first day of each sprint...
 - ... to discuss and record progress towards objectives and key results
+- ask your reports who they paired with in the previous sprint
+- ask your reports what they learned in the previous sprint
 - ensure your reports have sufficient work in the upcoming sprint
 - ensure your reports have included some 20% Time work in the upcoming sprint
 - discuss the planned work to help identify any support you can provide
 - ensure each of your reports is carrying out their role as described in this document
 - participate in recruitment activities and interview panels
 
-Additionally, for Bands 8a/8b staff:
+Additionally, when line managing Band 8a/8b staff:
 
 - ensure your reports are appropriately managing their own reports
+- ask your reports what they were able to teach others through mentoring
 - ask what their reports achieved in the last 2 weeks
 - ask what their reports are working on in the next 2 weeks
 - record praiseworthy achievements
 
-**Tools & Methods**
-
-One-to-One Meetings:
-
-- must take place on the first day of a new sprint
-- begin by reviewing achievements against previous meeting's commitments
-- then identify the individual's commitments for the upcoming sprint...
-- ... which will include Jira tickets from their team backlog as well as 20% time work towards their OKRs
-- help the individual to identify barriers to success and think through ways to overcome them
-- the individual should commit to completing certain activities/tickets before the next meeting
-- does the individual need any extra support to meet their commitments?
-
-
 #### 3.4.3 Line Management of Contractors
 
-TODO
+This work will be carried out on an ongoing basis.
 
-**Actions & Behaviours**
-
-- TODO
-- TODO
-- TODO
-
-**Tools & Methods**
-
-Contractor Check-ins:
-
--
--
--
--
+- comply with corporate policies and procedures
+- meet with each of your contractors on the first day of each sprint
+- ensure your contractors have sufficient work in the upcoming sprint
+- discuss the planned work to help identify any support you can provide
+- participate in recruitment activities and interview panels
 
 ### 3.5 Finance
 
 #### 3.5.1 Payments to Contractors
 
-This work will be carried out TODO
-
-**Actions & Behaviours**
+This work will be carried out on an ongoing basis
 
 - check with Delivery Managers to ensure contractor invoices are accurate
-- make prompt payments to contractors
-
-**Tools & Methods**
-
-TODO
+- make prompt payments to contractors (e.g. batched payments Tuesday morning)
 
 #### 3.5.2 Overall budget
 
-This work will be carried out TODO
-
-**Actions & Behaviours**
+This work will be carried out on an ongoing basis.
 
 - manage the budget for NHSUK software development
 - make payments to suppliers
 - approve other expenditure
-
-**Tools & Methods**
-
-TODO
 
 ---
 
@@ -508,143 +385,6 @@ Need to produce a calendar showing key activities
 
 Monthly-ish granularity i.e. to the level of when devs should be updating the corporate system with news about completed objectives.
 
----
-
-APPENDICES
-
-TODO: Example content of a Quick Guide
-
-- Title
-- Introduction (what is this)
-- Your role and responsibilities
-- Expected behaviours
-- How you will be supported (specifically)
-- How you will support others (specifically)
-- Useful checklists
-- FAQs
-
-
-
-
-
----
-
-## 5. STUFF TO MOVE ELSEWHERE
-
-**Coaching support**
-
-- First iteration from October to April will be targeted at Senior developers
-- 6 x 1 hour sessions
-- Current and specific issues for each developer will be tackled
-
-There will also be some planned content and exercises covering:
-
-- self-confidence
-- self-knowledge
-- critical thinking skills
-- specific concepts related to agile/lean etc.
-- the specific roles and responsibilities within delivery teams (DM/PO/dev/etc.)
-
-**Reporting**
-
-TODO
-
-What information will we record and pass up the chain?
-
-- deployment frequency by team/product
-- commit frequency by team/product
-- pairing sessions by team/product
-- objectives and/or key results achieved
-
-How will that information be used?
-
-- to identify praiseworthy team/individual achievements
-- to identify opportunities to provide additional support to teams/individuals
-
-**Triggers and Interventions**
-
-TODO
-
-Set out in plain language what will be the triggers for intervention.
-
-Also set out what interventions we will be willing to take, including in extreme circumstances.
-
-Example of "routine" intervention:
-
-- E.g. developer fails to complete any of their objectives in a given quarter
-- Discussion to take place with line manager and next manager up to agree what extra support can be provided.
-- Line manager maybe also needs extra support? (Because this shouldn't have happened...)
-
-Example of extreme intervention:
-
-- We may wish to consider offering staff the ability to voluntarily drop down a band if they consistently fail to carry out their expected role or to achieve the objectives they set for themselves.
-- If so, we'd need to do the work now to identify how we could make that work with HR.
-- But we also need a bullet-proof way to fairly (i.e. without bias) establish that this was now the correct outcome, and that we have tried everything else.
-- We'd also need to clearly set out how this is a "kind" intervention for the individual, designed to more appropriately challenge them with work they would be able to succeed at. (Optimum challenge)
-
-Positive triggers:
-
-- Note that crucially we need to set out some triggers for positive actions.
-- For example, if a developer completes an objective then Sean should mention this in the next update he delivers.
-- Plenty of other potential positive triggers: shipping code N sprints in a row, obtaining a new qualification, etc.
-
-
-**Goals**
-
-- What specifically are we trying to achieve here.
-
-TODO: Our Values (by definition) should help deliver these goals. Therefore, set out the things below as benefits of the appropriate Value when discussing them in the later section.
-
-**2.1 Individual Goals**
-
-- Promote a working environment conducive to happiness and good mental health
-- Help them to do their best work
-- Provide optimum challenges
-- Provide support as required
-- Reward and praise success
-- Clarify roles and responsibility
-- Clarify expectations to prevent overwork
-
-**2.2 Team Goals**
-
-- Help teams make best use of the resource available to them
-- Help teams to operate in a more agile way
-- Delivery of more value and higher quality to the public
-- Better working relations/environment
-
-**2.3 Organisational Goals**
-
-- Produce evidence to demonstrate that our developers are contributing adequately (i.e. protect them from outside interference and misguided attempts to judge them)
-- Support the long-term availability of a suitably skilled team of developers (i.e. the team needs to be a "going concern" in business-speak)
-- Nurture human capital and retain staff by ensuring the culture is not overbearing
-- Better alignment of 20% time work to improving Software Quality Dashboard and ensuring compliance with Software Quality Framework
-
----
-
-**Barriers to Success**
-
-- What could prevent us from achieving our goals.
-- How will we avoid falling into these traps.
-
-TODO: Our Values (by definition) should help deliver these goals. Therefore, set out the things below as benefits of the appropriate Value when discussing them in the later section.
-
-**Individual Barriers**
-
-- Individuals usually fear and despise any approach to performance management.
-- Individuals may refuse to comply with an intrusive process.
-- Individuals may believe there is no reward for success, so why bother.
-
-**3.2 Team Barriers**
-
-- Continuing professional development is often disconnected from the flow of work, and therefore gets overlooked.
-- Lack of psychological safety in teams may hide or prevent useful feedback.
-- Teams are often focussed more on deadlines and delivery rather than in creating the conditions for growth and workforce success.
-
-**Organisational Barriers**
-
-- May fail to generate the required team capabilities.
-- Tempting to get lost in process rather than focusing on culture and mindset.
-- Line managers (from Sean downwards) may find it difficult to find time to properly run the system.
-
-
-
+- agree 3 suitable personal objectives and corresponding key results with your line manager
+- ensure that one of these objectives is related to an agreed training activity
+- enter your objectives and key results on the corporate PDR system
