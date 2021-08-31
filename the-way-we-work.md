@@ -149,7 +149,7 @@ The responsibility matrix below shows pay bands across the top and areas of resp
 |**LEADERSHIP and AUTONOMY**| 20% Time | SDMT Operational Planning | Strategy Implementation and Lean Improvement Projects | Vision and Strategy |
 |**GROWING THE TEAM**| Pairing | Mentoring | Coaching | Delegating |
 |**DUTY OF CARE**| Buddying | Line Management | Line Management | Line Management |
-|**FINANCE**|  |  | Payments to Contractors | Overall budget |
+|**FINANCE**|  |  | Payments to Contractors | Overall Budget |
 
 Developers should focus on activities in their own column rather than activities in preceeding columns.
 
