@@ -3,11 +3,11 @@
 
 ## Your Role
 
-Your role is to use software engineering best practices to support rapid and safe delivery of high-quality software.
+Your role is to champion and lead by example using software engineering best practices to support rapid and safe delivery of high-quality software.
 
 ## Your Focus
 
-At this stage in your career you should focus on the success and professional development of:
+At this stage in your career you should focus on the success and professional development not only of yourself but also:
 
 - your direct reports (i.e. the people who you line manage)
 - the people within your Delivery Team
@@ -17,14 +17,16 @@ At this stage in your career you should focus on the success and professional de
 Your key responsibilities are to:
 
 - Lead **System Design** activities within a Delivery Team
+- Lead **Feature Development** work within a Delivery Team
 - Ensure there is sufficient **Documentation** to support our products and systems
 - Attend SDMT to assist with **SDMT Operational Planning**
 - Carry out deliberate **Mentoring** to help others develop their knowledge and skills
 - Undertake your **Line Management** duties, in accordance with guidance
 
+All of the above are important and you should manage your time to be able to do enough of all of them as your situation dictates.
+
 When the above responsibilities are met, you may also:
 
-- Carry out **Feature Development** work within a Delivery Team
 - Complete **20% Time** work within each Delivery Team sprint
 - **Pair** with other members of a Delivery Team where this would be productive
 - **Buddy** with newer developers to help them settle into their role
@@ -38,7 +40,7 @@ Your line manager will:
 - meet with you on the first day of each new sprint
 - ensure you have appropriately challenging work to undertake
 - help you record your achievements and plan for upcoming challenges
-- help you choose your own Objectives & Key Results (OKRs)
+- help you choose your own Objectives & Key Results (OKRs) on a quarterly basis
 - ensure you are using 20% Time to make continuous progress towards your OKRs
 - help you to support the people who you line manage
 
@@ -58,7 +60,7 @@ As a line manager you will:
 - meet with your reports on the first day of each new sprint
 - ensure your reports have appropriately challenging work to undertake
 - help your reports record their achievements and plan for upcoming challenges
-- help your reports choose their own Objectives & Key Results (OKRs)
+- help your reports choose their own Objectives & Key Results (OKRs) on a quarterly basis
 - ensure your reports are using 20% Time to make continuous progress towards their OKRs
 
 To support a delivery team you will:
