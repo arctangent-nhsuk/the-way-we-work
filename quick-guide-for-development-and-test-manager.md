@@ -3,7 +3,7 @@
 
 ## Your Role
 
-Your role is to use software engineering best practices to support rapid and safe delivery of high-quality software.
+Your role is to champion the use of software engineering best practices to support rapid and safe delivery of high-quality software.
 
 ## Your Focus
 
@@ -21,6 +21,8 @@ Your key responsibilities are to:
 - Grow the leadership team through **Delegating** responsibility for work areas and projects
 - Undertake your **Line Management** duties, in accordance with guidance
 - Manage the **Overall Budget**, ensuring controls are in place
+
+All of the above are important and you should manage your time to be able to do enough of each of them as your situation dictates.
 
 When the above responsibilities are met, you may also:
 
@@ -51,7 +53,7 @@ As a line manager you will:
 - meet with your reports on a monthly basis
 - ensure your reports have appropriately challenging work to undertake
 - help your reports record their achievements and plan for upcoming challenges
-- help your reports choose their own Objectives & Key Results (OKRs)
+- help your reports choose their own Objectives & Key Results (OKRs) on a quarterly basis
 - support your reports in delivering their own line management duties
 
 To support the whole NHSUK team you will:
