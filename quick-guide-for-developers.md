@@ -26,7 +26,7 @@ Details on how these responsibilities should be carried out can be found in The 
 
 Your line manager will:
 
-- meet with you regularly on the first or last day of each sprint (i.e. "between sprints")
+- meet with you on the first or last day of each sprint (i.e. "between sprints")
 - ensure you have appropriately challenging work to undertake
 - help you record your achievements and plan for upcoming challenges
 - help you choose your own Objectives & Key Results (OKRs) on a quarterly basis
