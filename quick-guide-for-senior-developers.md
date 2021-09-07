@@ -3,7 +3,7 @@
 
 ## Your Role
 
-Your role is to champion and lead by example using software engineering best practices to support rapid and safe delivery of high-quality software.
+Your role is to lead the use of software engineering best practices to support rapid and safe delivery of high-quality software.
 
 ## Your Focus
 
@@ -23,7 +23,7 @@ Your key responsibilities are to:
 - Carry out deliberate **Mentoring** to help others develop their knowledge and skills
 - Undertake your **Line Management** duties, in accordance with guidance
 
-All of the above are important and you should manage your time to be able to do enough of all of them as your situation dictates.
+All of the above are important and you should manage your time to be able to do enough of each of them as your situation dictates.
 
 When the above responsibilities are met, you may also:
 
@@ -37,7 +37,7 @@ Details on how these responsibilities should be carried out can be found in The 
 
 Your line manager will:
 
-- meet with you on the first or last day of each new sprint
+- meet with you on the first or last day of each sprint (i.e. "between sprints")
 - ensure you have appropriately challenging work to undertake
 - help you record your achievements and plan for upcoming challenges
 - help you choose your own Objectives & Key Results (OKRs) on a quarterly basis
@@ -57,7 +57,7 @@ As a member of SDMT:
 
 As a line manager you will:
 
-- meet with your reports on the first day of each new sprint
+- meet with your reports on the first or last day of each sprint (i.e. "between sprints")
 - ensure your reports have appropriately challenging work to undertake
 - help your reports record their achievements and plan for upcoming challenges
 - help your reports choose their own Objectives & Key Results (OKRs) on a quarterly basis
