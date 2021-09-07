@@ -18,16 +18,18 @@ Your key responsibilities are to:
 - **Pair** with other members of a Delivery Team where this would be productive
 - **Buddy** with newer developers to help them settle into their role
 
+All of the above are important and you should manage your time to be able to do enough of each of them as your situation dictates.
+
 Details on how these responsibilities should be carried out can be found in The Way We Work.
 
 ## How You Will Be Supported
 
 Your line manager will:
 
-- meet with you on the first day of each new sprint
+- meet with you regularly on the first or last day of each sprint (i.e. "between sprints")
 - ensure you have appropriately challenging work to undertake
 - help you record your achievements and plan for upcoming challenges
-- help you choose your own Objectives & Key Results (OKRs)
+- help you choose your own Objectives & Key Results (OKRs) on a quarterly basis
 - ensure you are using 20% Time to make continuous progress towards your OKRs
 
 Within a delivery team:

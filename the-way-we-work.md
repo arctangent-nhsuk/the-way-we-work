@@ -145,7 +145,7 @@ The responsibility matrix below shows pay bands across the top and areas of resp
 |ROLE TITLE|Developer (bands 6 & 7)|Senior Developer (band 8a)|Principal Engineer (band 8b)|Development & Test Manager (band 8c)|
 |---| :--------------- | :--------- | :--------------- | -------------- |
 | **FOCUS** | **SELF** | **SINGLE TEAM** | **MULTIPLE TEAMS** | **ALL TEAMS** |
-|**CODE**| Feature Development | System Design and Documentation | Engineering Quality Framework |                |
+|**CODE**| Feature Development | System Design, Feature Development, and Documentation | Engineering Quality Framework |                |
 |**LEADERSHIP and AUTONOMY**| 20% Time | SDMT Operational Planning | Strategy Implementation and Lean Improvement Projects | Vision and Strategy |
 |**GROWING THE TEAM**| Pairing | Mentoring | Coaching | Delegating |
 |**DUTY OF CARE**| Buddying | Line Management | Line Management | Line Management |
