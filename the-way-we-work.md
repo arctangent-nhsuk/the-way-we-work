@@ -388,3 +388,20 @@ Monthly-ish granularity i.e. to the level of when devs should be updating the co
 - agree 3 suitable personal objectives and corresponding key results with your line manager
 - ensure that one of these objectives is related to an agreed training activity
 - enter your objectives and key results on the corporate PDR system
+
+
+### 4.1 Summary
+
+TODO
+
+### 4.2 The Quarterly Cycle
+
+TODO
+
+### 4.3 Alignment with HR 
+
+TODO
+
+Create a "conversation check-in" once per fortnight (i.e. to capture what was discussed in the 1-2-1)
+
+HR requires a "performance check-in" at the beginning and end of the year.
