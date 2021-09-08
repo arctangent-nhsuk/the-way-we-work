@@ -27,7 +27,8 @@ All of the above are important and you should manage your time to be able to do 
 
 When the above responsibilities are met, you may also:
 
-- Lead **System Design** activities within a Delivery Team
+- Lead **System Design** activities across multiple Delivery Teams
+- Lead **Feature Development** work across multiple Delivery Teams
 - Ensure there is sufficient **Documentation** to support our products and systems
 - Attend SDMT to assist with **SDMT Operational Planning**
 - Carry out deliberate **Mentoring** to help others develop their knowledge and skills
