@@ -22,7 +22,7 @@ To clarify individual roles and their responsibilities we have set out a simple 
 |ROLE TITLE|Developer (bands 6 & 7)|Senior Developer (band 8a)|Principal Engineer (band 8b)|Development & Test Manager (band 8c)|
 |---| :--------------- | :--------- | :--------------- | -------------- |
 | **FOCUS** | **SELF** | **SINGLE TEAM** | **MULTIPLE TEAMS** | **ALL TEAMS** |
-|**CODE**| Feature Development | System Design and Documentation | Engineering Quality Framework |                |
+|**CODE**| Feature Development | System Design, Feature Development, and Documentation | Engineering Quality Framework |                |
 |**LEADERSHIP and AUTONOMY**| 20% Time | SDMT Operational Planning | Strategy Implementation and Lean Improvement Projects | Vision and Strategy |
 |**GROWING THE TEAM**| Pairing | Mentoring | Coaching | Delegating |
 |**DUTY OF CARE**| Buddying | Line Management | Line Management | Line Management |
@@ -39,7 +39,7 @@ In order to help developers carry out these responsibilities we have set out som
 We have recommended that:
 
 - Principal Engineers focus on ensuring compliance with the Engineering Quality Framework (EQF)
-- Senior Developers focus on system design and documentation activities
+- Senior Developers focus on system design, leading feature development, and documentation
 - More junior developers focus on the usual feature development activities
 
 Expected benefits to delivery team work:
