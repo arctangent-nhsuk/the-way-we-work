@@ -159,7 +159,7 @@ Developers should focus on activities in their own column rather than activities
 
 ## 3. Responsibilities Explained
 
-This section lists the key best practices required within each of the responsibility areas.
+This section lists the key activities and associated best practices required within each of the responsibility areas.
 
 We believe that if developers do these things, and if they try to always improve how they do them, then surely excellent outcomes will follow. 
 
