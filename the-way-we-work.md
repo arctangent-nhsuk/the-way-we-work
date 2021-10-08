@@ -387,8 +387,8 @@ Need to produce a calendar showing key activities
 
 Monthly-ish granularity i.e. to the level of when devs should be updating the corporate system with news about completed objectives.
 
-- agree 3 suitable personal objectives and corresponding key results with your line manager on a quarterly basis
-- ensure that one of these objectives is related to an agreed training activity
+- on a quarterly basis, with your line manager, agree 3 ambitious personal objectives each with about 4 SMART key results
+- ensure that one of your personal objectives is related to an agreed training activity
 - enter your objectives and key results on the corporate PDR system
 
 
