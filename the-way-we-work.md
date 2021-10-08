@@ -114,7 +114,9 @@ The leadership team will monitor progress towards improving our scores, which wi
 
 **Individual Contribution**
 
-Users are happy when value is delivered continuously and developers are happy when a piece of work is complete. 
+Users are happy when value is delivered continuously because they can enjoy that value immediately.
+
+Developers are happy when value is delivered continuously because it makes work more effective, efficient and sustainable.
 
 The leadership team will monitor how often developers are able to contribute code which is deployed to production.
 
