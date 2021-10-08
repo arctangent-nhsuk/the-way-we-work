@@ -81,7 +81,7 @@ We believe in:
 - Growth: Everyone has the potential to improve
 - Autonomy: People work best when they control how they work
 - Mastery: People work best when they are always learning
-- Purpose: People work best when they choose what to work on
+- Purpose: People work best when they choose what to work on within their areas of responsibility
 - Support: People work best when they are supported by their colleagues
 - Structure: Progress is best made within an iterative and incremental system
 
