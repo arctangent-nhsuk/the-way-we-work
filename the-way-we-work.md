@@ -337,7 +337,7 @@ When line managing Band 6/7 staff:
 
 - comply with corporate policies and procedures
 - meet with each of your reports on the first or last day of each sprint (i.e. "between sprints")
-- discuss and record progress towards objectives and key results
+- discuss progress towards objectives and key results and update the corporate performance management system 
 - ask your reports who they paired with in the previous sprint
 - ask your reports what they learned in the previous sprint
 - ensure your reports have sufficient work in the upcoming sprint
