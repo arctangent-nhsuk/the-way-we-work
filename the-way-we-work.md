@@ -330,8 +330,8 @@ This work will be carried out on an ongoing basis.
 When line managing Band 6/7 staff:
 
 - comply with corporate policies and procedures
-- meet with each of your reports on the first day of each sprint...
-- ... to discuss and record progress towards objectives and key results
+- meet with each of your reports on the first or last day of each sprint (i.e. "between sprints")
+- discuss and record progress towards objectives and key results
 - ask your reports who they paired with in the previous sprint
 - ask your reports what they learned in the previous sprint
 - ensure your reports have sufficient work in the upcoming sprint
@@ -353,7 +353,7 @@ Additionally, when line managing Band 8a/8b staff:
 This work will be carried out on an ongoing basis.
 
 - comply with corporate policies and procedures
-- meet with each of your contractors on the first day of each sprint
+- meet with each of your contractors on the first or last day of each sprint (i.e. "between sprints")
 - ensure your contractors have sufficient work in the upcoming sprint
 - discuss the planned work to help identify any support you can provide
 - participate in recruitment activities and interview panels
