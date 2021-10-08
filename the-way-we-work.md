@@ -413,3 +413,5 @@ TODO
 Create a "conversation check-in" once per fortnight (i.e. to capture what was discussed in the 1-2-1)
 
 HR requires a "performance check-in" at the beginning and end of the year.
+
+Reasoning behind fortnightly updates to corporate system: The majority of staff in NHSD do not work in two-week iterations like NHSUK software developers do. To those other staff, a monthly meeting cycle makes sense (and is a big improvement over the previous annual meeting cycle). Within NHSUK it makes more sense to meet fortnightly as we have described in TWWW. The corporate system can be updated with relevant information every two weeks.
