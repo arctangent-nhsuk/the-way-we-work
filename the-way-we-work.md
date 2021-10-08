@@ -98,7 +98,7 @@ Therefore:
 
 The Way We Work will be judged a success if it helps NHSUK software developers rapidly deliver value to users whilst improving the technical quality of our products.
 
-The leadership team will be held accountable for those business outcomes. The Way We Work is not intended to be a way to assess the performance of individuals.
+The leadership team will be held accountable for those business outcomes, which will be measured at a team level (i.e. for each delivery team). The Way We Work is not intended to be a way to assess the performance of individuals.
 
 The leadership team has decided to measure their success in 3 broad categories:
 
@@ -112,19 +112,25 @@ The dashboard contains a number of technical measures for each of our products a
 
 The leadership team will monitor progress towards improving our scores, which will be achieved by developers completing objectives as part of their 20% time.
 
+We will measure this for each delivery team as a whole rather than at an individual level.
+
 **Individual Contribution**
 
 Users are happy when value is delivered continuously because they can enjoy that value immediately.
 
 Developers are happy when value is delivered continuously because it makes work more effective, efficient and sustainable.
 
-The leadership team will monitor how often developers are able to contribute code which is deployed to production.
+The leadership team will monitor how often teams are able to contribute code which is deployed to production.
+
+We will measure this for each delivery team as a whole rather than at an individual level.
 
 **Team Participation**
 
 We do our best work when we work together and when we help each other to improve.
 
 The leadership team will monitor activity on Jira tickets.
+
+We will measure this for each delivery team as a whole rather than at an individual level.
 
 ---
 
