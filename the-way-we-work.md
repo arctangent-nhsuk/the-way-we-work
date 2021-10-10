@@ -372,7 +372,7 @@ Best practices:
 - pair with other developers whenever possible to complete feature tickets instead of working alone
 - record who you paired with and what was discussed on the relevant Jira ticket
 
-#### 3.3.2 Coaching
+#### 3.3.3 Coaching
 
 Coaching (in the context of NHSUK software development) is a way of leading others in order to develop autonomy and self-belief so that they are able to achieve their potential.
 
@@ -386,7 +386,7 @@ Best practices:
 - obtain a recognised coaching qualification
 - develop and maintain knowledge of coaching methods, tools, techniques etc.
 
-#### 3.3.3 Delegating
+#### 3.3.4 Delegating
 
 What this is:
 
