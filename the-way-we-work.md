@@ -288,13 +288,11 @@ This work will be carried out by the leadership team in collaboration with SDMT.
 
 #### 3.2.1 20% Time
 
-What this is:
+20% Time is a reserved proportion of time to be used by developers to complete their own personal objectives.
 
-Why we do this:
+We agreed this arrangement with delivery managers because we feel it is important to set aside time for professional development and because we recognise that developers can make valuable contributions to a product which might otherwise be neglected due to the difficulty in measuring relative value against user-facing functionality.
 
-How we do this:
-
-This work will be carried out within a delivery team.
+20% Time work will be carried out within a delivery team.
 
 - agree and document your personal objectives as part of the quarterly objective setting cycle
 - spend one day each week working on your personal objectives
