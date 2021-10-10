@@ -248,13 +248,15 @@ Best practices:
 
 #### 3.1.2 System Design and Documentation
 
-What this is:
+System Design and Documentation are important activities taking a whole-system approach to ensuring value can be delivered to users continuously.
 
-Why we do this:
+We focus on ensuring systems are well designed - and remain so through refactoring - so that it is always as easy as possible to do additional feature development work without accruing technical debt.
 
-How we do this:
+We focus on ensuring the system is well documented so that new team members can be brought quickly up to speed where required, thus ensuring the team can be scaled up if completion of the product backlog is required sooner than is currently projected.
 
-This work will be carried out within a delivery team.
+System Design and Documentation is carried out within a delivery team.
+
+Best practices:
 
 - lead the design of the solution
 - ensure the system remains well-documented at all times
