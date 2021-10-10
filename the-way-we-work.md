@@ -332,13 +332,11 @@ Best practices:
 
 #### 3.2.4 Vision and Strategy
 
-What this is:
+Vision and Strategy are high-level leadership tools used to communicate where the team is headed and to set out the ways in which the team should seek to get there.
 
-Why we do this:
+Vision and Strategy development is carried out by the Head of Development in collaboration with the leadership team.
 
-How we do this:
-
-This work will be carried out in collaboration with the leadership team.
+Best practices:
 
 - define and communicate a clear vision for NHSUK software development
 - collaborate with the leadership team to agree a strategy to deliver the vision
