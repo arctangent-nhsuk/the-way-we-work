@@ -294,6 +294,8 @@ We agreed this arrangement with delivery managers because we feel it is importan
 
 20% Time work will be carried out within a delivery team.
 
+Best practices:
+
 - agree and document your personal objectives as part of the quarterly objective setting cycle
 - spend one day each week working on your personal objectives
 - update the corporate PDR system with progress against your objectives and key results
@@ -302,13 +304,11 @@ We agreed this arrangement with delivery managers because we feel it is importan
 
 #### 3.2.2 SDMT Operational Planning
 
-What this is:
+Operational Planning is the act of solving and driving through the resolution of day-to-day problems arising within delivery teams. Senior Developers within delivery teams rely on the supoport and guidance of colleagues in other teams to coordinate actions which may involve more than one delivery team. These actions may relate to staff (e.g. agreeing to lend an expert to assist another team), or they may relate to the ongoing programmes of activity to drive improvements to the EQD (e.g. coordinating cross-team infrastructure improvements).
 
-Why we do this:
+Operational Planning work will be carried out in collaboration with SDMT.
 
-How we do this:
-
-This work will be carried out in collaboration with SDMT.
+Best practices:
 
 - attend the Senior Developers Management Team (SDMT) meeting each week
 - help to maintain and execute the SDMT Plan
