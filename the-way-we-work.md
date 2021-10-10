@@ -270,13 +270,11 @@ Best practices:
 
 #### 3.1.3 Engineering Quality Framework
 
-What this is:
+The Engineering Quality Framework (EQF) is a set of agreed standards and best practices put in place across the Product Development directorate by our Head of Engineering. Compliance with these standards and best practices is measured and reported in the Engineering Quality Dashboard (EQD).
 
-Why we do this:
+It is a priority for NHSUK software delivery leadership to deliver improvements to our EQD scores. This requires identifying and leading effective and efficient cross-product programmes of development activity that can be undertaken alongside feature development work.
 
-How we do this:
-
-This work will be carried out in collaboration with SDMT.
+This work will be carried out by the leadership team in collaboration with SDMT.
 
 - maintain and develop technical expertise in the EQF areas
 - design and deliver technical prototypes or experiments to inform decisions and future development
