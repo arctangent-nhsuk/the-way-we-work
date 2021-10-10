@@ -345,13 +345,13 @@ Best practices:
 
 #### 3.3.1 Pairing
 
-What this is:
+Pairing is where two people work together to solve a problem and/or complete a piece of work.
 
-Why we do this:
+We pair with others to bring additional mental capactity to bear, to provide an opportunity for mutual teaching and learning, and - especially when people from different professions collaborate - to eliminate delays that would otherwise occur due to handoffs.
 
-How we do this:
+Paising is carried out within a delivery team.
 
-This work will be carried out within a delivery team.
+Best practices:
 
 - work together with other members of a delivery team when you think this would be productive
 - pairing can take place both with technical and non-technical delivery team members
