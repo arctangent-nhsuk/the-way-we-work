@@ -388,13 +388,11 @@ Best practices:
 
 #### 3.3.4 Delegating
 
-What this is:
+Delegating is where a senior leader gives another member of staff the responsibility and authority to achieve an objective or to complete an assigned task. It is an effective way of "scaling-up" leadership team capacity, capability, and resilience.
 
-Why we do this:
+The Head of Development will Delegate to the leadership team.
 
-How we do this:
-
-This work will be carried out in collaboration with the leadership team.
+Best practices:
 
 - identify opportunities to stretch and empower other members of the leadership team
 - delegate responsibility for the completion of significant work packages (e.g. lean improvement projects)
