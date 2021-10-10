@@ -173,9 +173,21 @@ We believe that if developers do these things, and if they try to always improve
 
 #### 3.1.1 Feature Development
 
-This work will be carried out within a delivery team.
+Feature Development refers to all the activities involved in creating new features, enhancing existing features, or fixing bugs. These activities include sprint planning, writing code, managing Jira tickets, reviewing code, and carrying out retrospectives.
+
+The reason we do Feature Development is to deliver value to our users. These users most frequently are members of the public but can also include our colleagues (e.g. through improvements to admin functionality).
+
+As well as delivering value directly by working on user-facing features, we also deliver value indirectly by making improvements to the code and infrastructure in order to comply with non-functional requirements (NFRs) set out in the Engineering Quality Framework.
+
+Feature Development work is carried out within a delivery team.
 
 **Sprint Planning**
+
+Sprint Planning is a planning activity undertaken by a delivery team before each new sprint begins. 
+
+The reason we do Sprint Planning is to help the developers in the team select an achievable amount of work for the upcoming sprint, taking into account the relative value which will be delivered to users and the information available to developers (so that we only work on tickets which are "ready").
+
+Best practices:
 
 - attend sprint planning at the beginning of each sprint
 - help to select which stories will be in the next sprint
@@ -186,12 +198,20 @@ This work will be carried out within a delivery team.
 
 **Writing Code**
 
+Writing Code is the act of transforming requirements into instructions a computer can follow in order to deliver value to users. This activity will typically involve a great deal of problem solving, both in determining what those instructions should be and also in how those instructions can be issued in a way that guarantees a high degree of success (e.g. through making code testable and the system observable).
+
+Best practices:
+
 - write code which is deployed to production at least once per sprint
 - collaborate with fellow developers to select appropriate tickets from the sprint backlog
 - comply with coding standards while creating new code
 - ensure you write unit tests, and collaborate with testers to ensure they can write tests too
 
-**Jira Tickets**
+**Managing Jira Tickets**
+
+We use Jira to manage the flow of work within delivery teams. It is important for all members of a team to manage their own Jira tickets in order for the delivery manager and other team members to have an accurate view of the team's progress.
+
+Best practices:
 
 - ensure Jira tickets assigned to you are kept up to date
 - write notes on Jira tickets to record progress or document blockers
@@ -199,6 +219,12 @@ This work will be carried out within a delivery team.
 - change the status of Jira tickets promptly to help keep your team informed
 
 **Code Review**
+
+Code Review is a quality assurance activity undertaken prior to new code being merged into the code repository's main branch.
+
+The reasons we review code are to ensure that new code correctly interprets and solves requirements, to ensure new code complies with agreed standards, to ensure that at least one other person apart from the author understands the new code (i.e. the code reviewer), and to provide an opportunity for dialogue leading to teaching, learning, and continuing professional development of both the author and the reviewer.
+
+Best practices:
 
 - review the code of other developers in your team
 - ensure your team is following a code review checklist
@@ -210,6 +236,10 @@ This work will be carried out within a delivery team.
 
 **Retrospectives**
 
+Retrospectives are an opportunity to consolidate learning and to agree improvement activities before each new sprint begins. They help to ensure that a delivery team can adapt in order to maximise the flow of value to users.
+
+Best practices:
+
 - attend a retrospective at the end of each sprint
 - before attending a retrospective, reflect on what went well in the last sprint and what went less well
 - express your opinions honestly in the retrospective whilst respecting other people's feelings
@@ -217,6 +247,12 @@ This work will be carried out within a delivery team.
 - ensure improvement tickets are brought into the following sprint so that improvements can be realised
 
 #### 3.1.2 System Design and Documentation
+
+What this is:
+
+Why we do this:
+
+How we do this:
 
 This work will be carried out within a delivery team.
 
@@ -232,6 +268,12 @@ This work will be carried out within a delivery team.
 
 #### 3.1.3 Engineering Quality Framework
 
+What this is:
+
+Why we do this:
+
+How we do this:
+
 This work will be carried out in collaboration with SDMT.
 
 - maintain and develop technical expertise in the EQF areas
@@ -246,6 +288,12 @@ This work will be carried out in collaboration with SDMT.
 
 #### 3.2.1 20% Time
 
+What this is:
+
+Why we do this:
+
+How we do this:
+
 This work will be carried out within a delivery team.
 
 - agree and document your personal objectives as part of the quarterly objective setting cycle
@@ -255,6 +303,12 @@ This work will be carried out within a delivery team.
 - ... and ensure your ticket(s) are brought into the sprint backlog when appropriate
 
 #### 3.2.2 SDMT Operational Planning
+
+What this is:
+
+Why we do this:
+
+How we do this:
 
 This work will be carried out in collaboration with SDMT.
 
@@ -267,6 +321,12 @@ This work will be carried out in collaboration with SDMT.
 
 #### 3.2.3 Strategy Implementation and Lean Improvement Projects
 
+What this is:
+
+Why we do this:
+
+How we do this:
+
 This work will be carried out in collaboration with the leadership team.
 
 - design lean improvement projects to deliver improvements across multiple products
@@ -275,6 +335,12 @@ This work will be carried out in collaboration with the leadership team.
 - select one area per quarter to target as a personal objective
 
 #### 3.2.4 Vision and Strategy
+
+What this is:
+
+Why we do this:
+
+How we do this:
 
 This work will be carried out in collaboration with the leadership team.
 
@@ -285,6 +351,12 @@ This work will be carried out in collaboration with the leadership team.
 
 #### 3.3.1 Pairing
 
+What this is:
+
+Why we do this:
+
+How we do this:
+
 This work will be carried out within a delivery team.
 
 - work together with other members of a delivery team when you think this would be productive
@@ -292,6 +364,12 @@ This work will be carried out within a delivery team.
 - remember that pairing should lead to higher quality work and improved knowledge sharing
 
 #### 3.3.2 Mentoring
+
+What this is:
+
+Why we do this:
+
+How we do this:
 
 This work will be carried out within a delivery team.
 
@@ -302,6 +380,12 @@ This work will be carried out within a delivery team.
 
 #### 3.3.2 Coaching
 
+What this is:
+
+Why we do this:
+
+How we do this:
+
 This work will be carried out on a one-to-one basis by arrangement with other developers.
 
 - design programmes of coaching to improve developers' knowledge of agile software development
@@ -311,6 +395,12 @@ This work will be carried out on a one-to-one basis by arrangement with other de
 - develop and maintain knowledge of coaching methods, tools, techniques etc.
 
 #### 3.3.3 Delegating
+
+What this is:
+
+Why we do this:
+
+How we do this:
 
 This work will be carried out in collaboration with the leadership team.
 
@@ -324,12 +414,24 @@ This work will be carried out in collaboration with the leadership team.
 
 #### 3.4.1 Buddying
 
+What this is:
+
+Why we do this:
+
+How we do this:
+
 This work will be carried out on an ongoing basis.
 
 - act as the first point of contact to an apprentice or new joiner
 - assist them with their issues in preference to doing other work
 
 #### 3.4.2 Line Management of Permanent Staff
+
+What this is:
+
+Why we do this:
+
+How we do this:
 
 This work will be carried out on an ongoing basis.
 
@@ -356,6 +458,12 @@ Additionally, when line managing Band 8a/8b staff:
 
 #### 3.4.3 Line Management of Contractors
 
+What this is:
+
+Why we do this:
+
+How we do this:
+
 This work will be carried out on an ongoing basis.
 
 - comply with corporate policies and procedures
@@ -368,12 +476,24 @@ This work will be carried out on an ongoing basis.
 
 #### 3.5.1 Payments to Contractors
 
+What this is:
+
+Why we do this:
+
+How we do this:
+
 This work will be carried out on an ongoing basis.
 
 - check with Delivery Managers to ensure contractor invoices are accurate
 - make prompt payments to contractors (e.g. batched payments Tuesday morning)
 
 #### 3.5.2 Overall budget
+
+What this is:
+
+Why we do this:
+
+How we do this:
 
 This work will be carried out on an ongoing basis.
 
