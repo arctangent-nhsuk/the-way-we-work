@@ -359,13 +359,13 @@ Best practices:
 
 #### 3.3.2 Mentoring
 
-What this is:
+Mentoring (in the context of NHSUK software development) is the deliberate transmission of technical knowledge from an expert developer to another developer.
 
-Why we do this:
+This technical knowledge could relate to particular technologies, frameworks and tools, or it could relate to wider professional knoweldge such as the concepts and methods of agile software development.
 
-How we do this:
+Mentoring is carried out within a delivery team.
 
-This work will be carried out within a delivery team.
+Best practices:
 
 - mentor other developers within your delivery team
 - actively seek out opportunities to develop the knowledge and skills of other developers
