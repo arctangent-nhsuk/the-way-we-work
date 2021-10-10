@@ -319,13 +319,11 @@ Best practices:
 
 #### 3.2.3 Strategy Implementation and Lean Improvement Projects
 
-What this is:
+Strategy Implementation and Lean Improvement Projects are means to achieve technical and non-technical improvements to the administration, management, or continual improvement of the whole NHSUK team of software developers, and also how the team interacts with its stakeholders (including colleagues in other professions).
 
-Why we do this:
+Strategy Implementation and Lean Improvement Projects are carried out by the leadership team.
 
-How we do this:
-
-This work will be carried out in collaboration with the leadership team.
+Best practices:
 
 - design lean improvement projects to deliver improvements across multiple products
 - lead, motivate and hold to account other developers to deliver the desired improvements
