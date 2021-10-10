@@ -374,13 +374,11 @@ Best practices:
 
 #### 3.3.2 Coaching
 
-What this is:
+Coaching (in the context of NHSUK software development) is a way of leading others in order to develop autonomy and self-belief so that they are able to achieve their potential.
 
-Why we do this:
+Coaching will be carried out on a one-to-one basis by arrangement with other developers.
 
-How we do this:
-
-This work will be carried out on a one-to-one basis by arrangement with other developers.
+Best practices:
 
 - design programmes of coaching to improve developers' knowledge of agile software development
 - provide one-to-one coaching to support developers through their immediate and specific work issues
