@@ -77,16 +77,16 @@ The leadership team are also mindful of improvement targets set by senior manage
 We believe in:
 
 - Growth: Everyone has the potential to improve
-- Autonomy: People work best when they control how they work
-- Mastery: People work best when they are always learning
-- Purpose: People work best when they choose what to work on within their areas of responsibility
-- Support: People work best when they are supported by their colleagues
+- Autonomy: People do their best work when they are able to choose how they work
+- Mastery: People do their best work when they are able to learn the skills they need
+- Purpose: People do their best work when they understand the purpose and value of what they are doing
+- Support: People do their best work when they are supported by their colleagues
 - Structure: Progress is best made within an iterative and incremental system
 
 Therefore:
 
 - We will focus on future growth, not on past performance
-- We will ensure individuals choose what to work on and how to do that work
+- We will ensure individuals choose what to work on next and how to do that work
 - We will ensure individuals have the time to learn new things
 - We will ensure individuals understand their role and responsibilities
 - We will ensure individuals at all levels receive the support they need
