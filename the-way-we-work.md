@@ -497,6 +497,8 @@ TODO
 
 This is going to be very similar to the system Jacob already put in place. We can reuse some of the diagrams used to explain that system (in particular the goal-setting and 1-2-1 reviews) because they remain identical.
 
+Make sure we emphasise the balance between autonomy to "do what you want" with our desire for work and training objectives to "pull in the same direction". We would strongly encourage training in line with our Key Skills plan, or training required to work on a particular product. We would also strongly encourage development work to raise our EQF scores for a product, or to deliver similar non-user-facing improvements to our platforms or processes (i.e. across multiple products).
+
 Need to produce a calendar showing key activities
 
 Monthly-ish granularity i.e. to the level of when devs should be updating the corporate system with news about completed objectives.
