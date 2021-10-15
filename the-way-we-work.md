@@ -258,9 +258,11 @@ Best practices:
 
 - lead the design of the solution
 - ensure the system remains well-documented at all times
-- check the system against the criteria in the Engineering Quality Framework
 - ensure the system conforms to approved NHSUK architecture patterns
 - ensure all architecture decisions are documented in a standard location
+- check the system against the criteria in the Engineering Quality Framework
+- ensure new systems comply fully with the EQF requirements
+- agree reduced service readiness criteria and a remediation plan with TAB in exceptional circumstances where new systems cannot fully comply with the EQF
 - ensure code and tests are sufficiently documented
 - ensure documentation allows new team members to contribute to the project
 - ensure each project has a README.md file containing (at least) links to complete documentation
