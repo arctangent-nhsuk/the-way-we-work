@@ -23,7 +23,7 @@ To clarify individual roles and their responsibilities we have set out a simple 
 |---| :--------------- | :--------- | :--------------- | -------------- |
 | **FOCUS** | **SELF** | **SINGLE TEAM** | **MULTIPLE TEAMS** | **ALL TEAMS** |
 |**CODE**| Feature Development | System Design, Feature Development, and Documentation | Engineering Quality Framework |                |
-|**LEADERSHIP and AUTONOMY**| 20% Time | SDMT Operational Planning | Strategy Implementation and Lean Improvement Projects | Vision and Strategy |
+|**LEADERSHIP and AUTONOMY**| Quality Time | SDMT Operational Planning | Strategy Implementation and Lean Improvement Projects | Vision and Strategy |
 |**GROWING THE TEAM**| Pairing | Mentoring | Coaching | Delegating |
 |**DUTY OF CARE**| Buddying | Line Management | Line Management | Line Management |
 |**FINANCE**|  |  | Payments to Contractors | Overall budget |
@@ -60,7 +60,7 @@ We have recommended that:
 
 - Principal Engineers focus on and are responsible for significant pieces of work delivering benefits across multiple/all teams
 - Senior Developers are responsible for escalating team issues to SDMT for advice and support where appropriate
-- More junior developers will choose their own objectives and key results in line with strategic priorities, and will work towards these as part of their 20% Time
+- More junior developers will choose their own objectives and key results in line with strategic priorities, and will work towards these as part of their Quality Time
 
 Expected benefits to delivery team work:
 
@@ -102,7 +102,7 @@ We have recommended that:
 - Line managers ensure their reports have appropriately challenging work to undertake
 - Line managers help their reports record their achievements and plan for upcoming challenges
 - Line managers help their reports choose their own Objectives & Key Results (OKRs)
-- Line managers ensure their reports are using 20% Time to make continuous progress towards their OKRs
+- Line managers ensure their reports are using Quality Time to make continuous progress towards their OKRs
 
 Expected benefits to delivery team work:
 

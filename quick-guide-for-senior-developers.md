@@ -27,7 +27,7 @@ All of the above are important and you should manage your time to be able to do 
 
 When the above responsibilities are met, you may also:
 
-- Complete **20% Time** work within each Delivery Team sprint
+- Complete **Quality Time** work within each Delivery Team sprint
 - **Pair** with other members of a Delivery Team where this would be productive
 - **Buddy** with newer developers to help them settle into their role
 
@@ -41,7 +41,7 @@ Your line manager will:
 - ensure you have appropriately challenging work to undertake
 - help you record your achievements and plan for upcoming challenges
 - help you choose your own Objectives & Key Results (OKRs) on a quarterly basis
-- ensure you are using 20% Time to make continuous progress towards your OKRs
+- ensure you are using Quality Time to make continuous progress towards your OKRs
 - help you to support the people who you line manage
 
 Within a delivery team:
@@ -61,7 +61,7 @@ As a line manager you will:
 - ensure your reports have appropriately challenging work to undertake
 - help your reports record their achievements and plan for upcoming challenges
 - help your reports choose their own Objectives & Key Results (OKRs) on a quarterly basis
-- ensure your reports are using 20% Time to make continuous progress towards their OKRs
+- ensure your reports are using Quality Time to make continuous progress towards their OKRs
 
 To support a delivery team you will:
 

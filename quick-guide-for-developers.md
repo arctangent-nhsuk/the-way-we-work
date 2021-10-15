@@ -14,7 +14,7 @@ At this stage in your career you should focus on your own personal success and p
 Your key responsibilities are to:
 
 - Carry out **Feature Development** work within a Delivery Team 
-- Complete **20% Time** work within each Delivery Team sprint
+- Complete **Quality Time** work within each Delivery Team sprint
 - **Pair** with other members of a Delivery Team where this would be productive
 - **Buddy** with newer developers to help them settle into their role
 
@@ -30,7 +30,7 @@ Your line manager will:
 - ensure you have appropriately challenging work to undertake
 - help you record your achievements and plan for upcoming challenges
 - help you choose your own Objectives & Key Results (OKRs) on a quarterly basis
-- ensure you are using 20% Time to make continuous progress towards your OKRs
+- ensure you are using Quality Time to make continuous progress towards your OKRs
 
 Within a delivery team:
 

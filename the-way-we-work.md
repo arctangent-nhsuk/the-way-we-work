@@ -5,8 +5,6 @@
 
 TODO: Use corporate controlled document template
 
-TODO: Do the Quick Guides reconcile with (match up to) the main document
-
 ---
 
 > Not only must the physician show himself prepared to do what is necessary, he must also secure the co-operation of the patient, the attendants, and of external circumstances.
@@ -42,7 +40,7 @@ TODO: Do the Quick Guides reconcile with (match up to) the main document
     3.3 Growing the Team    
     3.4 Duty of Care    
     3.5 Finance      
-4. Quarterly objective setting cycle
+4. Quarterly objective setting cycle    
     4.1    
     4.2    
     4.3    
@@ -110,7 +108,7 @@ The leadership team has decided to measure their success in 3 broad categories:
 
 The dashboard contains a number of technical measures for each of our products and we have been instructed to improve those scores.
 
-The leadership team will monitor progress towards improving our scores, which will be achieved by developers completing objectives as part of their 20% time.
+The leadership team will monitor progress towards improving our scores, which will be achieved by developers completing objectives as part of their Quality Time.
 
 We will measure this for each delivery team as a whole rather than at an individual level.
 
@@ -154,7 +152,7 @@ The responsibility matrix below shows pay bands across the top and areas of resp
 |---| :--------------- | :--------- | :--------------- | -------------- |
 | **FOCUS** | **SELF** | **SINGLE TEAM** | **MULTIPLE TEAMS** | **ALL TEAMS** |
 |**CODE**| Feature Development | System Design, Feature Development, and Documentation | Engineering Quality Framework |                |
-|**LEADERSHIP and AUTONOMY**| 20% Time | SDMT Operational Planning | Strategy Implementation and Lean Improvement Projects | Vision and Strategy |
+|**LEADERSHIP and AUTONOMY**| Quality Time | SDMT Operational Planning | Strategy Implementation and Lean Improvement Projects | Vision and Strategy |
 |**GROWING THE TEAM**| Pairing | Mentoring | Coaching | Delegating |
 |**DUTY OF CARE**| Buddying | Line Management | Line Management | Line Management |
 |**FINANCE**|  |  | Payments to Contractors | Overall Budget |
@@ -286,21 +284,21 @@ This work will be carried out by the leadership team in collaboration with SDMT.
 
 ### 3.2 Leadership and Autonomy
 
-#### 3.2.1 20% Time
+#### 3.2.1 Quality Time
 
-20% Time is a reserved proportion of time to be used by developers to complete their own personal objectives.
+Quality Time is a reserved proportion of time to be used by developers to complete their own personal objectives. (Previously, we had the concept of "20% Time" which was then supplemented with 2 hours of separate training time. We have brought these two things together under the new Quality Time name.)
 
 We agreed this arrangement with delivery managers because we feel it is important to set aside time for professional development and because we recognise that developers can make valuable contributions to a product which might otherwise be neglected due to the difficulty in measuring relative value against user-facing functionality.
 
-20% Time work will be carried out within a delivery team.
+Quality Time work will be carried out within a delivery team.
 
 Best practices:
 
 - agree and document your personal objectives as part of the quarterly objective setting cycle
 - spend one day each week working on your personal objectives
 - update the corporate PDR system with progress against your objectives and key results
-- ensure Jira tickets are created for your personal objectives...
-- ... and ensure your ticket(s) are brought into the sprint backlog when appropriate
+- ensure Jira tickets are created for your personal objectives
+- ensure your ticket(s) are brought into the sprint backlog when appropriate
 
 #### 3.2.2 SDMT Operational Planning
 
@@ -433,7 +431,7 @@ When line managing Band 6/7 staff:
 - ask your reports who they paired with in the previous sprint
 - ask your reports what they learned in the previous sprint
 - ensure your reports have sufficient work in the upcoming sprint
-- ensure your reports have included some 20% Time work in the upcoming sprint
+- ensure your reports have included some Quality Time work in the upcoming sprint
 - discuss the planned work to help identify any support you can provide
 - ensure each of your reports is carrying out their role as described in this document
 - participate in recruitment activities and interview panels
