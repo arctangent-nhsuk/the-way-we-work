@@ -41,16 +41,18 @@ TODO: Use corporate controlled document template
     3.4 Duty of Care    
     3.5 Finance      
 4. Quarterly Objective Setting Cycle    
-    4.1 Summary
-    4.2 The Quarterly Cycle
-    4.3 Quarterly Objective Setting
-    4.4 Alignment with Corporate Performance Management System  
-99. Appendices  
-    - N1. Quick Guide for Principal Engineers  
-    - N2. Quick Guide for Senior Developers  
-    - N3. Quick Guide for Developers  
-    - N4. Quick Guide for Contractors  
-    - N5. Quick Guide for Delivery Managers & Product Owners  
+    4.1 Summary    
+    4.2 The Quarterly Cycle    
+    4.3 Quarterly Objective Setting    
+    4.4 Alignment with Corporate Performance Management System     
+
+**Appendices**
+
+- Quick Guide for Principal Engineers  
+- Quick Guide for Senior Developers  
+- Quick Guide for Developers  
+- Quick Guide for Contractors  
+- Quick Guide for Delivery Managers & Product Owners  
 
 
 ---
