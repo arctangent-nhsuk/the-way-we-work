@@ -40,12 +40,11 @@ TODO: Use corporate controlled document template
     3.3 Growing the Team    
     3.4 Duty of Care    
     3.5 Finance      
-4. Quarterly objective setting cycle    
-    4.1    
-    4.2    
-    4.3    
-    4.4    
-    4.5    
+4. Quarterly Objective Setting Cycle    
+    4.1 Summary
+    4.2 The Quarterly Cycle
+    4.3 Quarterly Objective Setting
+    4.4 Alignment with Corporate Performance Management System  
 99. Appendices  
     - N1. Quick Guide for Principal Engineers  
     - N2. Quick Guide for Senior Developers  
@@ -493,37 +492,39 @@ This work will be carried out on an ongoing basis.
 
 ---
 
-## 4. Quarterly objective setting cycle
-
-TODO
-
-This is going to be very similar to the system Jacob already put in place. We can reuse some of the diagrams used to explain that system (in particular the goal-setting and 1-2-1 reviews) because they remain identical.
-
-Make sure we emphasise the balance between autonomy to "do what you want" with our desire for work and training objectives to "pull in the same direction". We would strongly encourage training in line with our Key Skills plan, or training required to work on a particular product. We would also strongly encourage development work to raise our EQF scores for a product, or to deliver similar non-user-facing improvements to our platforms or processes (i.e. across multiple products).
-
-Need to produce a calendar showing key activities
-
-Monthly-ish granularity i.e. to the level of when devs should be updating the corporate system with news about completed objectives.
-
-- on a quarterly basis, with your line manager, agree 3 ambitious personal objectives each with about 4 SMART key results
-- ensure that one of your personal objectives is related to an agreed training activity
-- enter your objectives and key results on the corporate PDR system
-
+## 4. Quarterly Objective Setting Cycle
 
 ### 4.1 Summary
 
-TODO
+NHSUK software development operates a quarterly objective setting cycle, with a recommendation that developers choose 4 objectives to complete each quarter. A developer's objectives must be agreed with their line manager prior to the commencement of each quarter and recorded on the corporate performance management system. Progress against objectives must also be recorded on this system after each fortnightly 1-2-1 meeting.
 
 ### 4.2 The Quarterly Cycle
 
-TODO
+Objective setting within NHSUK operates on a quarterly cycle, with quarters beginning on the first day of April, July, October, and January. We refer to each cycle as follows:
 
-### 4.3 Alignment with HR 
+- Quarter One ("Q1") - April, May, and June
+- Quarter Two ("Q2") - July, August, and September
+- Quarter Three ("Q3") - October, November, and December
+- Quarter Four ("Q4") - January, February, and March
 
-TODO
+Note that for consistency with the wider organisation we have chosen to align our quarter names with both the annual leave year and the financial year.
 
-Create a "conversation check-in" once per fortnight (i.e. to capture what was discussed in the 1-2-1)
+### 4.3 Quarterly Objective Setting
 
-HR requires a "performance check-in" at the beginning and end of the year.
+Developers must always have a list of objectives they are actively working towards in their Quality Time. These objectives should include training as well as feature development or tech debt remediation - a single objective may include combinations of each of these.
 
-Reasoning behind fortnightly updates to corporate system: The majority of staff in NHSD do not work in two-week iterations like NHSUK software developers do. To those other staff, a monthly meeting cycle makes sense (and is a big improvement over the previous annual meeting cycle). Within NHSUK it makes more sense to meet fortnightly as we have described in TWWW. The corporate system can be updated with relevant information every two weeks.
+To make sure this happens, during the last two weeks of each quarter developers should meet with their line manager to agree new objectives for the next quarter.
+
+Based on the amount of Quality Time available (about 12 days per quarter) we recommend that developers choose 3 objectives, with each objective being broken down into 4 "SMART" key results. This means that a developer can be expected to complete a key result each week on average.
+
+We recommend objectives which are either relevant to a developer's current delivery team mission or to the wider Engineering Quality Framework priorities. This is because we believe that choosing objectives which pull in the same direction as the wider team will enhance the learning experience as well as benefitting the wider team mission.
+
+To help developers choose appropriate objectives, Principal Engineers and Senior Developers will frequently design improvement projects that need contributions from developers in several teams. However, it is completely acceptable for a developer to pursue their own improvement ideas so long as these are agreed with their line manager.
+
+### 4.4 Alignment with Corporate Performance Management System
+
+NHSD has recently implemented a new web-based performance management application. Line managers must use this application to record everything relevant to personal objectives.
+
+The corporate requirement is for annual objective setting with one "check-in conversation" per month. We have chosen to go above and beyond this requirement in order to more accurately match both the cadence of our work (i.e. fortnightly sprints) and the mercurial nature of the wider software development profession (i.e. constant technological progress combined with the malleability of digital systems).
+
+Therefore we require that objectives are recorded - and, where appropriate, closed down - within the corporate web application on a quarterly basis. Additionally, a "conversation check-in" must be created for each fortnightly 1-2-1 between a developer and their line manager. At a minimum this should contain a review of progress against each objective (e.g. which key results have been completed and/or are currently being worked on, any support requested and received, any blockers to be overcome etc.).
