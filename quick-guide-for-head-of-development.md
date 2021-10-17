@@ -1,5 +1,5 @@
 
-# The Way We Work: Quick Guide for Development and Test Manager
+# The Way We Work: Quick Guide for Head of Development
 
 ## Your Role
 
