@@ -48,11 +48,11 @@ TODO: Use corporate controlled document template
 
 **Appendices**
 
-- Quick Guide for Principal Engineers  
-- Quick Guide for Senior Developers  
-- Quick Guide for Developers  
-- Quick Guide for Contractors  
-- Quick Guide for Delivery Managers & Product Owners  
+- [Quick Guide for Developers](https://github.com/arctangent-nhsuk/the-way-we-work/blob/main/quick-guide-for-developers.md)
+- [Quick Guide for Senior Developers](https://github.com/arctangent-nhsuk/the-way-we-work/blob/main/quick-guide-for-senior-developers.md)
+- [Quick Guide for Principal Engineers](https://github.com/arctangent-nhsuk/the-way-we-work/blob/main/quick-guide-for-principal-engineers.md)
+- [Quick Guide for Head of Development](https://github.com/arctangent-nhsuk/the-way-we-work/blob/main/quick-guide-for-head-of-development.md)
+- [Quick Guide for Delivery Managers & Product Owners](https://github.com/arctangent-nhsuk/the-way-we-work/blob/main/quick-guide-for-delivery-managers-and-product-owners.md)
 
 
 ---
