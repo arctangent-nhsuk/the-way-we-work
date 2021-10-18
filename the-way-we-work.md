@@ -498,7 +498,7 @@ This work will be carried out on an ongoing basis.
 
 ### 4.1 Summary
 
-NHSUK software development operates a quarterly objective setting cycle, with a recommendation that developers choose 4 objectives to complete each quarter. A developer's objectives must be agreed with their line manager prior to the commencement of each quarter and recorded on the corporate performance management system. Progress against objectives must also be recorded on this system after each fortnightly 1-2-1 meeting.
+NHSUK software development operates a quarterly objective setting cycle, with a recommendation that developers choose 3 objectives to complete each quarter. A developer's objectives must be agreed with their line manager prior to the commencement of each quarter and recorded on the corporate performance management system. Progress against objectives must also be recorded on this system after each fortnightly 1-2-1 meeting.
 
 ### 4.2 The Quarterly Cycle
 
@@ -519,7 +519,7 @@ To make sure this happens, during the last two weeks of each quarter developers 
 
 Based on the amount of Quality Time available (about 12 days per quarter) we recommend that developers choose 3 objectives, with each objective being broken down into 4 "SMART" key results. This means that a developer can be expected to complete a key result each week on average.
 
-We recommend objectives which are either relevant to a developer's current delivery team mission or to the wider Engineering Quality Framework priorities. This is because we believe that choosing objectives which pull in the same direction as the wider team will enhance the learning experience as well as benefitting the wider team mission.
+We recommend objectives which are either relevant to a developer's current delivery team mission or to the wider Engineering Quality Framework priorities. This is because we believe that choosing objectives which pull in the same direction as the wider team will enhance the learning experience as well as benefitting the whole team.
 
 To help developers choose appropriate objectives, Principal Engineers and Senior Developers will frequently design improvement projects that need contributions from developers in several teams. However, it is completely acceptable for a developer to pursue their own improvement ideas so long as these are agreed with their line manager.
 
@@ -527,6 +527,6 @@ To help developers choose appropriate objectives, Principal Engineers and Senior
 
 NHSD has recently implemented a new web-based performance management application. Line managers must use this application to record everything relevant to personal objectives.
 
-The corporate requirement is for annual objective setting with one "check-in conversation" per month. We have chosen to go above and beyond this requirement in order to more accurately match both the cadence of our work (i.e. fortnightly sprints) and the mercurial nature of the wider software development profession (i.e. constant technological progress combined with the malleability of digital systems).
+The corporate requirement is for annual objective setting with one "check-in conversation" per month. We have chosen to go above and beyond this requirement in order to more accurately match both the cadence of our work (i.e. fortnightly sprints) and the mercurial nature of software development (i.e. constant technological progress and rapidly changing digital systems).
 
 Therefore we require that objectives are recorded - and, where appropriate, closed down - within the corporate web application on a quarterly basis. Additionally, a "conversation check-in" must be created for each fortnightly 1-2-1 between a developer and their line manager. At a minimum this should contain a review of progress against each objective (e.g. which key results have been completed and/or are currently being worked on, any support requested and received, any blockers to be overcome etc.).
