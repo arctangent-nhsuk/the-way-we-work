@@ -474,13 +474,9 @@ Best practices:
 
 #### 3.5.2 Overall budget
 
-What this is:
+The Head of Development role is unique in that it directly controls a budget. Not only must this be spent in the best way possible to support the NHSUK development team, but it must also be managed in a way which complies with corporate standards of financial control.
 
-Why we do this:
-
-How we do this:
-
-This work will be carried out on an ongoing basis.
+Best practices:
 
 - manage the budget for NHSUK software development
 - make payments to suppliers
