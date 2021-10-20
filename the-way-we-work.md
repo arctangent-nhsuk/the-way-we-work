@@ -405,13 +405,9 @@ Best practices:
 
 #### 3.4.1 Buddying
 
-What this is:
+Buddying is a way of helping to take care of more junior colleagues, especially those who have recently joined NHSUK. There are two main aims of our buddying system: firstly to rapidly make "new" people comfortable and productive within NHSUK's complex technical environemnt, and secondly to provide an opportunity for non-managerial staff to develop the servant-leadership skills they would need should they later progress in their own careers into a formal managerial role.
 
-Why we do this:
-
-How we do this:
-
-This work will be carried out on an ongoing basis.
+Best practices:
 
 - act as the first point of contact to an apprentice or new joiner
 - assist them with their issues in preference to doing other work
