@@ -449,13 +449,11 @@ Additionally, when line managing Band 8a/8b staff:
 
 #### 3.4.3 Line Management of Contractors
 
-What this is:
+Although contractors are not permanent members of staff, they are notionally line managed by Principal Engineers in order to provide them with the support they need in order to do their best work.
 
-Why we do this:
+It is also important for Principal Engineers to ensure that contractors are delivering an appropriate amount of value, and be ready to take action if this is not the case.
 
-How we do this:
-
-This work will be carried out on an ongoing basis.
+Best practices:
 
 - comply with corporate policies and procedures
 - meet with each of your contractors on the first or last day of each sprint (i.e. "between sprints")
@@ -467,13 +465,9 @@ This work will be carried out on an ongoing basis.
 
 #### 3.5.1 Payments to Contractors
 
-What this is:
+Payments to contractors are made on a weekly basis in exchange for the services they provide to NHSUK delivery teams. It is important that there is an appropriate level of control around these payments because collectively they add up to well over £1 million per year. Principal Engineers are responsible for these payments Because contractors are notionally line managed by them.
 
-Why we do this:
-
-How we do this:
-
-This work will be carried out on an ongoing basis.
+Best practices:
 
 - check with Delivery Managers to ensure contractor invoices are accurate
 - make prompt payments to contractors (e.g. batched payments Tuesday morning)
