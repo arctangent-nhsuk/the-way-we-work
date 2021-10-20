@@ -414,15 +414,13 @@ Best practices:
 
 #### 3.4.2 Line Management of Permanent Staff
 
-What this is:
+Line management is a crucial part of senior software development roles (i.e. bands 8a and up). At this stage in a developer's career the focus changes from being a strong individual contributor towards being a servant-leader who empowers others to do their best work.
 
-Why we do this:
+Servant-leadership is important within delivery teams but is even more important when a line manager is helping people who report to them (and who may not even work in the same delivery team). This is because only a line manager can help a colleague to choose and work towards their own personal objectives.
 
-How we do this:
+Line management relationships are the best and only way to ensure NHSUK has a healthy working environment that encourages personal growth.
 
-This work will be carried out on an ongoing basis.
-
-When line managing Band 6/7 staff:
+Best practices when line managing Band 6/7 staff:
 
 - comply with corporate policies and procedures
 - meet with each of your reports on the first or last day of each sprint (i.e. "between sprints")
@@ -435,7 +433,7 @@ When line managing Band 6/7 staff:
 - ensure each of your reports is carrying out their role as described in this document
 - participate in recruitment activities and interview panels
 
-Additionally, when line managing Band 8a/8b staff:
+Additional best practices when line managing Band 8a/8b staff:
 
 - ensure your reports are appropriately managing their own reports
 - ask your reports what they were able to teach others through mentoring
